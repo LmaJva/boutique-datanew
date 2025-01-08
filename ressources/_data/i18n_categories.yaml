@@ -1,11 +1,4 @@
-- label: welcome
-  title:
-      fr: Bienvenue
-      en: Welcome
-  description:
-      fr: >
-          Nous sommes ravies de vous faire découvrir les créations de nos partenaires céramistes, 
-          les thés des pers- label: petit-format-carré
+- label: petit-format-carré
   title:
     fr: Petit Format Carré
     en: Petit Format Carré
