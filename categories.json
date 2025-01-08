@@ -1,0 +1,32 @@
+[ 
+  {
+      "label": "petit-format-carré",
+      "title": {"fr":"Petit Format Carré","en":"Petit Format Carré"},
+      "description": {"fr":"Carte postale carrée, imprimée numériquement de mes originaux. Idéal pour les attentions uniques, allant droit au but","en":"Square postcard, digitally printed from my originals. Ideal for original, straight to the point attentions"}
+    },
+  {
+      "label": "format-rectangle",
+      "title": {"fr":"Format Rectangle","en":"Format Rectangle"},
+      "description": {"fr":"La traditionnelle carte postale rectangulaire, imprimée numériquement de mes oeuvres originales. Elle accompagnera volontier toutes vos fabuleuses péripéties","en":"Digitally printed from my originals. It will gladly accompany all of your fabulous adventures"}
+    },
+  {
+      "label": "moyen-format",
+      "title": {"fr":"Moyen Format","en":"Moyen Format"},
+      "description": {"fr":"Ambivalente, cette carte ravira un.e destinataire d'une attention particulièrement grande ou tout simplement pour l'admirer chez soi, sur un meuble ou au mur. Digitally printed card of my original works","en":"Ambivalent, this card can delight a recipient of a particularly great attention or simply to please oneself and be able to admire it at home, on a piece of furniture or on the wall"}
+    },
+  {
+      "label": "grand-format-carré",
+      "title": {"fr":"Grand Format Carré","en":"Grand Format Carré"},
+      "description": {"fr":"Ce grand format carré saura montrer tous ses détails, pour accrocher chez soi ou à envoyer. Format imprimé de mes oeuvres originales","en":"This large square size will show all its details, to hang at home or to send for great pleasure. Printed format of my original works"}
+    },
+  {
+      "label": "grand-format",
+      "title": {"fr":"Grand Format","en":"Grand Format"},
+      "description": {"fr":"Ce grand format saura montrer tous ses détails, pour accrocher chez soi ou à envoyer pour faire grandement plaisir. Format imprimé de mes oeuvres originales","en":"This large format will show all its details, to hang at home or to send for great pleasure. Printed format of my original works"}
+    },
+  {
+      "label": "carnet-porte-carte",
+      "title": {"fr":"Carnet Porte-Carte","en":"Carnet Porte-Carte"},
+      "description": {"fr":"Carnet artisanal dont la couverture, en papier rigide, permet de glisser la carte postale de son choix et ainsi laisser transparaître les couleurs et formes pour une couverture perosnnalisée et amovible. Les pages sont entièrement artisanales en papiers recyclés, c'est pourquoi il est préférable d'y écrire au stylo bille ou crayon de papier","en":"Handmade notebook with a stiff paper's cover that allows you to slip in the postcard of your choice and let the colors and shapes show through for a perosnalized and removable cover. The pages are full handmade of recycled paper, that's why it is preferable to write with a ballpoint pen or pencil."}
+    }
+  ]
