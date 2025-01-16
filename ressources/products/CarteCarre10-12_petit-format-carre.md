@@ -4,13 +4,14 @@ id: CarteCarre10-12
 name: Small Square Size
 tags: ["product", "petit-format-carré"]
 description: >
-  
+
 photos:
   - CarteCarre10tissufleur_1-a.jpg
 price: 1.50
 stock: 5
 
-
+mini_descr:
+meta_descr:
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---
