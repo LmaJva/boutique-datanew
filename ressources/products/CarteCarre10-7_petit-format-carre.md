@@ -10,11 +10,9 @@ photos:
   - CarteCarre10infini_1-a.jpg
 price: 1.50
 stock: 5
-
 options:
   dimensions: 10x10 cm
 mini_descr: ""
-meta_descr: ""
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---

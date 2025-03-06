@@ -9,9 +9,7 @@ photos:
   - CarteCarre10blcbleu_1-a.jpg
 price: 1.50
 stock: 5
-
 mini_descr:
-meta_descr:
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---
