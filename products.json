@@ -1,55 +1,55 @@
 [ 
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-10_undefined/",
-      "en": "/en/products/CarteCarre10-10_undefined/"
+      "fr": "/products/CarteCarre10-10_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-10_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-10",
-    "name": "Small Square Size",
-    "mini_descr": null,
-    "meta_descr": null,
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "mini_descr": "",
+    "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10fee_1-a.jpg"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
-  },
-{
-    "title": "productpetit-format-carré - Small Square Size",
-    "permalinks": {
-      "fr": "/products/CarteCarre10-12_undefined/",
-      "en": "/en/products/CarteCarre10-12_undefined/"
-    },
-    "layout": "_layouts/product_card.njk",
-    "id": "CarteCarre10-12",
-    "name": "Small Square Size",
-    "mini_descr": null,
-    "meta_descr": null,
-    "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10tissufleur_1-a.jpg"],
-    "price": "1.5",
-    "stock": "5",
-    "weight": "",
-    
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-1_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-1_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-12_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-12_petite-carte-carree/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre10-12",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
+    "price": "1.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre10-1_fantasmagorie/",
+      "en": "/en/products/CarteCarre10-1_fantasmagorie/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-1",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Fantasmagorie","en":"Fantasmagory"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -71,10 +71,10 @@
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-2",
     "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
-    "mini_descr": null,
-    "meta_descr": null,
+    "mini_descr": "",
+    "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré.\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
     "photos": ["CarteCarre10amor_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
@@ -92,10 +92,10 @@
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-3",
     "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
-    "mini_descr": null,
-    "meta_descr": null,
+    "mini_descr": "",
+    "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré.\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
     "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
@@ -105,130 +105,130 @@
     "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-4_undefined/",
-      "en": "/en/products/CarteCarre10-4_undefined/"
+      "fr": "/products/CarteCarre10-4_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-4_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-4",
-    "name": "Small Square Size",
-    "mini_descr": null,
-    "meta_descr": null,
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "mini_descr": "",
+    "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10croatisland_1-a.jpg"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-5_undefined/",
-      "en": "/en/products/CarteCarre10-5_undefined/"
+      "fr": "/products/CarteCarre10-5_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-5_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-5",
-    "name": "Small Square Size",
-    "mini_descr": null,
-    "meta_descr": null,
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "mini_descr": "",
+    "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10extrat_1-a.jpg"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-6_undefined/",
-      "en": "/en/products/CarteCarre10-6_undefined/"
+      "fr": "/products/CarteCarre10-6_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-6_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-6",
-    "name": "Small Square Size",
-    "mini_descr": null,
-    "meta_descr": null,
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "mini_descr": "",
+    "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10the_1-a.jpg"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-7_undefined/",
-      "en": "/en/products/CarteCarre10-7_undefined/"
+      "fr": "/products/CarteCarre10-7_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-7_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-7",
-    "name": "Small Square Size",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10infini_1-b.jpg","CarteCarre10infini_1-a.jpg"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-8_undefined/",
-      "en": "/en/products/CarteCarre10-8_undefined/"
+      "fr": "/products/CarteCarre10-8_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-8_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-8",
-    "name": "Small Square Size",
-    "mini_descr": null,
-    "meta_descr": null,
-    "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10blcbleu_1-a.jpg"],
-    "price": "1.5",
-    "stock": "5",
-    "weight": "",
-    
-    "shipping_type": "",
-    "shipping_point": ""
-  },
-{
-    "title": "productpetit-format-carré - Small Square Size",
-    "permalinks": {
-      "fr": "/products/CarteCarre10-9_undefined/",
-      "en": "/en/products/CarteCarre10-9_undefined/"
-    },
-    "layout": "_layouts/product_card.njk",
-    "id": "CarteCarre10-9",
-    "name": "Small Square Size",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
-    "photos": ["CarteCarre10lecteur_1-a.jpg"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre10-9_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-9_petite-carte-carree/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre10-9",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10dosnu_1-a.jpg"],
+    "price": "1.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
     "title": "productformat-rectangle - Rectangle Size",
