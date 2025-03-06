@@ -6,4 +6,4 @@ title: Privacy
 
 # Privacy
 
-The website [https://boutique.gongfucha.fr](https://boutique.gongfucha.fr) does not collect any personal data.
+The website [https://boutique.peintureresonnante.fr](https://boutique.peintureresonnante.fr) does not collect any personal data.

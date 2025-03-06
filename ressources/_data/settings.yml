@@ -1,2 +1,10 @@
 STRIPE_PUBLIC_KEY: "pk_live_"
 url: https://boutique.peintureresonnante.fr
+url_a_propos: https://www.peintureresonnante.fr/a-propos
+rue: 1, rue de la montagne
+code_postal: 09320
+ville: Massat
+region: Ariège
+pays: France
+email: grainejauneresonnante@mailo.com
+tel: +33676084178
