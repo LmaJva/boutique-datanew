@@ -13,7 +13,7 @@ price: 20.00
 stock: 5
 
 mini_descr: ""
-meta_descr: ""
+
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---

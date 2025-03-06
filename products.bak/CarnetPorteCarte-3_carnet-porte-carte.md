@@ -14,7 +14,7 @@ stock: 5
 options:
   impression: [object Object]
 mini_descr: ""
-meta_descr: ""
+
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---
