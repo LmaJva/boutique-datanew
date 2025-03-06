@@ -2,11 +2,11 @@
 layout: _layouts/product_card.njk
 id: CarteCarre10-2
 name: 
-  fr: Petite Carte Carrée
-  en: Small Square Card
+  fr: ^^WaterSpell*
+  en: ^^WaterSpell*
 meta_descr:
-  fr: Carte carrée imprimée d'une toile grand format, créé en Turquie. Peinture intuitive de voyage 
-  en: Square map printed on large canvas, created in Türkiye. Intuitive travel painting
+  fr: Tout autant que nous vivons, vit l'heure en laquelle Nous vivons, et qui meurt, de la même façon, Quand elle passe avec nous. 
+  en: As much as we live, so lives the hour in which We live, and which dies, in the same way, When it passes with us.
 tags: ["product", "petit-format-carré"]
 description: 
   fr: > 

@@ -14,7 +14,7 @@ description:
   en: >
     Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.
 photos:
-  - CarteCarre10dosnu_1-a.jpg
+  - CarteCarre10extrat_1-a.jpg
 price: 1.50
 stock: 5
 options:

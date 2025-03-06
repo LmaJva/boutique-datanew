@@ -1,7 +1,7 @@
 STRIPE_PUBLIC_KEY: "pk_live_"
 url: https://boutique.peintureresonnante.fr
 url_a_propos: https://www.peintureresonnante.fr/a-propos
-rue: 1, rue de la montagne
+rue: 4, rue de la montagne
 code_postal: 09320
 ville: Massat
 region: Ariège

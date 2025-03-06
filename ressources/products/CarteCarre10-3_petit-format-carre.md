@@ -2,17 +2,17 @@
 layout: _layouts/product_card.njk
 id: CarteCarre10-3
 name: 
-  fr: Petite Carte Carrée
-  en: Small Square Card
+  fr: Dos nu Fesses à l'air
+  en: Naked back buttocks in the air
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
 tags: ["product", "petit-format-carré"]
 description: 
   fr: > 
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. 
+    Les vagues commençaient à se supperposer puis à suivre lentement les visages ou corps flottants, ci et là puis doucement un dos est apparu laissant découvrir un rose nappé de créatures peuplant des fesses. Peinture acrylique sur carton
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.
+    The waves began to overlap and then slowly follow the floating faces or bodies, here and there then slowly a back appeared revealing a pink covered with creatures populating buttocks. Acrylic painting on cardboard
 photos:
   - CarteCarre10dosnu_1-a.jpg
 price: 1.50

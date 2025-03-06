@@ -5,8 +5,8 @@ name:
   fr: Fantasmagorie
   en: Fantasmagory
 meta_descr:
-  fr: Carte carrée imprimée d'une toile grand format, créé en Turquie. Peinture intuitive de voyage 
-  en: Square map printed on large canvas, created in Türkiye. Intuitive travel painting
+  fr: Fragment d'une petite scène d'une toile grand format, créé en Turquie. Peinture intuitive de voyage 
+  en: Fragment of a small scene on large canvas, created in Türkiye. Intuitive travel painting
 tags: ["product", "petit-format-carré"]
 description: 
   fr: > 
