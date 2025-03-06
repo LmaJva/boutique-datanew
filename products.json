@@ -42,67 +42,67 @@
     "shipping_point": ""
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-1_undefined/",
-      "en": "/en/products/CarteCarre10-1_undefined/"
+      "fr": "/products/CarteCarre10-1_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-1_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-1",
-    "name": "Small Square Size",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
-    "description": "",
+    "description": {"fr":"Cette peinture acrylique est un fragment d'une grande toile de 2x1 mètre créé en Turquie chez un ami, sous une impulsion spontanée de peindre. J'ai donc pris en photo les meilleurs fragments pour en imprimer des cartes et ainsi partager ce souvenir de voyage.\n","en":"This acrylic painting is a fragment of a large 2x1 meter canvas created in Turkey at a friend's house, under a spontaneous impulse to paint. So I took pictures of the best fragments to print cards and thus share this travel memory.\n"},
     "photos": ["CarteCarre10cieux_1-a.jpg"],
     "price": "1.5",
     "stock": "6",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-2_undefined/",
-      "en": "/en/products/CarteCarre10-2_undefined/"
+      "fr": "/products/CarteCarre10-2_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-2_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-2",
-    "name": "Small Square Size",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
     "mini_descr": null,
     "meta_descr": null,
     "tags": ["product","petit-format-carré"],
-    "description": "",
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré.\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
     "photos": ["CarteCarre10amor_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
-    "title": "productpetit-format-carré - Small Square Size",
+    "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-3_undefined/",
-      "en": "/en/products/CarteCarre10-3_undefined/"
+      "fr": "/products/CarteCarre10-3_petite-carte-carree/",
+      "en": "/en/products/CarteCarre10-3_petite-carte-carree/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-3",
-    "name": "Small Square Size",
+    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
     "mini_descr": null,
     "meta_descr": null,
     "tags": ["product","petit-format-carré"],
-    "description": "",
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré.\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
     "photos": ["CarteCarre10dosnu_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
     "title": "productpetit-format-carré - Small Square Size",
