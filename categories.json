@@ -1,6 +1,6 @@
 [ 
   {
-      "label": "petit-format-carré",
+      "label": "petit-format-carre",
       "title": {"fr":"Petit Format Carré","en":"Petit Format Carré"},
       "description": {"fr":"Carte postale carrée, imprimée numériquement de mes originaux. Idéal pour les attentions uniques, allant droit au but","en":"Square postcard, digitally printed from my originals. Ideal for original, straight to the point attentions"}
     },
@@ -20,7 +20,7 @@
       "description": {"fr":"Ambivalente, cette carte ravira un.e destinataire d'une attention particulièrement grande ou tout simplement pour l'admirer chez soi, sur un meuble ou au mur. Digitally printed card of my original works","en":"Ambivalent, this card can delight a recipient of a particularly great attention or simply to please oneself and be able to admire it at home, on a piece of furniture or on the wall"}
     },
   {
-      "label": "grand-format-carré",
+      "label": "grand-format-carre",
       "title": {"fr":"Grand Format Carré","en":"Grand Format Carré"},
       "description": {"fr":"Ambivalente, cette carte ravira un.e destinataire d'une attention particulièrement grande ou tout simplement pour l'admirer chez soi, sur un meuble ou au mur. Digitally printed card of my original works","en":"Ambivalent, this card can delight a recipient of a particularly great attention or simply to please oneself and be able to admire it at home, on a piece of furniture or on the wall"}
     },
