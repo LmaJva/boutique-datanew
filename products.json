@@ -2,12 +2,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-10_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-10_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-10_skjrjlkfjk/",
+      "en": "/en/products/CarteCarre10-10_skjrjlkfjk/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-10",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Skjrjlkfjk","en":"Skjrjlkfjk"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -15,6 +15,27 @@
     "photos": ["CarteCarre10extrat_1-a.jpg"],
     "price": "1.5",
     "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre10-11_chat-moi/",
+      "en": "/en/products/CarteCarre10-11_chat-moi/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre10-11",
+    "name": {"fr":"Chat moi","en":"Me cat"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["CarteCarre10cham_1-a.jpg"],
+    "price": "1.5",
+    "stock": "8",
     "weight": "",
     
     "shipping_type": "tube",
@@ -86,12 +107,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-4_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-4_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-4_yomfigo-tamagoshi/",
+      "en": "/en/products/CarteCarre10-4_yomfigo-tamagoshi/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-4",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Yomfigo tamagoshi","en":"Yomfigo on tamago"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -107,12 +128,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-5_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-5_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-5_jioprito-sur-l-etang/",
+      "en": "/en/products/CarteCarre10-5_jioprito-sur-l-etang/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-5",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Jioprito sur l'étang","en":"Jioprito on the water"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -128,12 +149,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-6_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-6_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-6_juirturti/",
+      "en": "/en/products/CarteCarre10-6_juirturti/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-6",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Juirturti","en":"Juirturti"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -149,12 +170,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-7_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-7_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-7_gutortiro/",
+      "en": "/en/products/CarteCarre10-7_gutortiro/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-7",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Gutortiro","en":"Gutortiro"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -170,12 +191,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-8_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-8_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-8_opkhfdsjl/",
+      "en": "/en/products/CarteCarre10-8_opkhfdsjl/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-8",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Opkhfdsjl","en":"Opkhfdsjl"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -191,12 +212,12 @@
 {
     "title": "productpetit-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteCarre10-9_petite-carte-carree/",
-      "en": "/en/products/CarteCarre10-9_petite-carte-carree/"
+      "fr": "/products/CarteCarre10-9_frtaty-hjioyttkgpu/",
+      "en": "/en/products/CarteCarre10-9_frtaty-hjioyttkgpu/"
     },
     "layout": "_layouts/product_card.njk",
     "id": "CarteCarre10-9",
-    "name": {"fr":"Petite Carte Carrée","en":"Small Square Card"},
+    "name": {"fr":"Frtaty hjioyttkgpù","en":"Frtaty hjioyttkgpù"},
     "mini_descr": "",
     "meta_descr": "",
     "tags": ["product","petit-format-carré"],
@@ -210,25 +231,1222 @@
     "shipping_point": "1"
   },
 {
-    "title": "productformat-rectangle - Rectangle Size",
+    "title": "productmoy-format-carré - [object Object]",
     "permalinks": {
-      "fr": "/products/CarteRectangle-21_undefined/",
-      "en": "/en/products/CarteRectangle-21_undefined/"
+      "fr": "/products/CarteCarre15-1_vert-et-jaune/",
+      "en": "/en/products/CarteCarre15-1_vert-et-jaune/"
     },
     "layout": "_layouts/product_card.njk",
-    "id": "CarteRectangle-21",
-    "name": "Rectangle Size",
-    "mini_descr": null,
-    "meta_descr": null,
-    "tags": ["product","format-rectangle"],
-    "description": "",
+    "id": "CarteCarre15-1",
+    "name": {"fr":"Vert et jaune","en":"Green and yellow"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15lecteur_1-a.jpg"],
+    "price": "4.5",
+    "stock": "24",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-2_infini/",
+      "en": "/en/products/CarteCarre15-2_infini/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-2",
+    "name": {"fr":"Infini","en":"Infinite"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15infini_1-a.jpg"],
+    "price": "4.5",
+    "stock": "14",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-3_fee-bleu-se-deposant/",
+      "en": "/en/products/CarteCarre15-3_fee-bleu-se-deposant/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-3",
+    "name": {"fr":"Fée bleu se déposant","en":"Blue fairy on the pose"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15fee_1-a.jpg"],
+    "price": "4.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-4_silhouette-planete-extra/",
+      "en": "/en/products/CarteCarre15-4_silhouette-planete-extra/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-4",
+    "name": {"fr":"Silhouette planète extra","en":"Shape extra planet"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15extrat_1-a.jpg"],
+    "price": "4.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-5_dos-nu-fesses-a-l-air/",
+      "en": "/en/products/CarteCarre15-5_dos-nu-fesses-a-l-air/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-5",
+    "name": {"fr":"Dos nu Fesses à l'air","en":"Naked back buttocks in the air"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15dosnu_1-a.jpg"],
+    "price": "4.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-6_yomfigo-tamagoshi/",
+      "en": "/en/products/CarteCarre15-6_yomfigo-tamagoshi/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-6",
+    "name": {"fr":"Yomfigo tamagoshi","en":"Yomfigo on tamago"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15croatisland_1-a.jpg"],
+    "price": "4.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-7_fantasmagorie/",
+      "en": "/en/products/CarteCarre15-7_fantasmagorie/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-7",
+    "name": {"fr":"Fantasmagorie","en":"Fantasmagory"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15cieux_1-a.jpg"],
+    "price": "4.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-8_chat-moi/",
+      "en": "/en/products/CarteCarre15-8_chat-moi/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-8",
+    "name": {"fr":"Chat moi","en":"Me cat"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15cham_1-a.jpg"],
+    "price": "4.5",
+    "stock": "7",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre15-9_les-amants/",
+      "en": "/en/products/CarteCarre15-9_les-amants/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre15-9",
+    "name": {"fr":"Les amants","en":"The lovers"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre15x15amor_1-a.jpg"],
+    "price": "4.5",
+    "stock": "3",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre21-1_fee-bleu-se-deposant/",
+      "en": "/en/products/CarteCarre21-1_fee-bleu-se-deposant/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre21-1",
+    "name": {"fr":"Fée bleu se déposant","en":"Blue fairy on the pose"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre21x21fee_1-a.jpg"],
+    "price": "10",
+    "stock": "11",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre21-2_silhouette-planete-extra/",
+      "en": "/en/products/CarteCarre21-2_silhouette-planete-extra/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre21-2",
+    "name": {"fr":"Silhouette planète extra","en":"Shape extra planet"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre21x21extrat_1-a.jpg"],
+    "price": "10",
+    "stock": "6",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre21-3_ziguouiguouis/",
+      "en": "/en/products/CarteCarre21-3_ziguouiguouis/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre21-3",
+    "name": {"fr":"Ziguouiguouis","en":"Ziguouiguouis"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre21x21blcbleu_1-a.jpg"],
+    "price": "10",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-carré - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteCarre21-4_les-amants/",
+      "en": "/en/products/CarteCarre21-4_les-amants/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteCarre21-4",
+    "name": {"fr":"Les amants","en":"The lovers"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-carré"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["CarteCarre21x21amor_1-a.jpg"],
+    "price": "10",
+    "stock": "2",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-10_creature-trans/",
+      "en": "/en/products/CarteRectangle15-10_creature-trans/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-10",
+    "name": {"fr":"Créature trans","en":"Trans creatures"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21creaturestrans_1-a.jpg"],
+    "price": "4.5",
+    "stock": "15",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-11_compo-bleu-rouge/",
+      "en": "/en/products/CarteRectangle15-11_compo-bleu-rouge/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-11",
+    "name": {"fr":"Compo bleu rouge","en":"Blue red compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21compobluered_1-a.jpg"],
+    "price": "4.5",
+    "stock": "15",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-12_chat-moi/",
+      "en": "/en/products/CarteRectangle15-12_chat-moi/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-12",
+    "name": {"fr":"Chat moi","en":"Me cat"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21cham_1-a.jpg"],
+    "price": "4.5",
+    "stock": "15",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-13_les-amoureux/",
+      "en": "/en/products/CarteRectangle15-13_les-amoureux/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-13",
+    "name": {"fr":"Les amoureux","en":"The lovers"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21amoureux_1-a.jpg"],
+    "price": "4.5",
+    "stock": "15",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-1_sf-bleu-noir/",
+      "en": "/en/products/CarteRectangle15-1_sf-bleu-noir/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-1",
+    "name": {"fr":"Sf bleu noir","en":"Sf blue black"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21sfblueblack_1-a.jpg"],
+    "price": "4.5",
+    "stock": "17",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-2_princesse-du-desert/",
+      "en": "/en/products/CarteRectangle15-2_princesse-du-desert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-2",
+    "name": {"fr":"Princesse du désert","en":"Desert's princess"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21princesse_1-a.jpg"],
+    "price": "4.5",
+    "stock": "17",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-3_poeme-de-l-olive/",
+      "en": "/en/products/CarteRectangle15-3_poeme-de-l-olive/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-3",
+    "name": {"fr":"Poème de l'olive","en":"Olive poem"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21olivepoeme_1-a.jpg"],
+    "price": "4.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-4_monade/",
+      "en": "/en/products/CarteRectangle15-4_monade/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-4",
+    "name": {"fr":"Monade","en":"Monad"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21monade_1-a.jpg"],
+    "price": "4.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-5_vert-et-jaune/",
+      "en": "/en/products/CarteRectangle15-5_vert-et-jaune/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-5",
+    "name": {"fr":"Vert et jaune","en":"Green and yellow"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21lecteur_1-a.jpg"],
+    "price": "4.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-6_foret-de-hundert/",
+      "en": "/en/products/CarteRectangle15-6_foret-de-hundert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-6",
+    "name": {"fr":"Forêt de Hundert","en":"Hundert's forest"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21hundertforet_1-a.jpg"],
+    "price": "4.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-7_riviere-de-hundert/",
+      "en": "/en/products/CarteRectangle15-7_riviere-de-hundert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-7",
+    "name": {"fr":"Rivière de Hundert","en":"Hundert's river"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21hudert2bords_1-a.jpg"],
+    "price": "4.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-8_maison-de-hundert/",
+      "en": "/en/products/CarteRectangle15-8_maison-de-hundert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-8",
+    "name": {"fr":"Maison de Hundert","en":"Hundert's house"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21hundert3_1-a.jpg"],
+    "price": "4.5",
+    "stock": "7",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productmoy-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle15-9_extra-bleu/",
+      "en": "/en/products/CarteRectangle15-9_extra-bleu/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle15-9",
+    "name": {"fr":"Extra bleu","en":"Extra blue"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","moy-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte15x21Extratblue_1-a.jpg"],
+    "price": "4.5",
+    "stock": "7",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-10_compo-abstraite/",
+      "en": "/en/products/CarteRectangle21-10_compo-abstraite/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-10",
+    "name": {"fr":"Compo abstraite","en":"Abstract compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30abstractcompo_1-a.jpg"],
+    "price": "12",
+    "stock": "2",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-1_sf-bleu-noir/",
+      "en": "/en/products/CarteRectangle21-1_sf-bleu-noir/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-1",
+    "name": {"fr":"Sf bleu noir","en":"Sf blue black"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30sfblueblack_1-a.jpg"],
+    "price": "12",
+    "stock": "6",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-2_princesse-du-desert/",
+      "en": "/en/products/CarteRectangle21-2_princesse-du-desert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-2",
+    "name": {"fr":"Princesse du désert","en":"Desert's princess"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30princesse_1-a.jpg"],
+    "price": "12",
+    "stock": "7",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-3_poeme-de-l-olive/",
+      "en": "/en/products/CarteRectangle21-3_poeme-de-l-olive/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-3",
+    "name": {"fr":"Poème de l'olive","en":"Olive poem"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30olivepoeme_1-a.jpg"],
+    "price": "12",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-4_livre-des-merveilles/",
+      "en": "/en/products/CarteRectangle21-4_livre-des-merveilles/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-4",
+    "name": {"fr":"Livre des merveilles","en":"Wonder's book"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30livremerveille_1-a.jpg"],
+    "price": "12",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-5_vert-et-jaune/",
+      "en": "/en/products/CarteRectangle21-5_vert-et-jaune/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-5",
+    "name": {"fr":"Vert et jaune","en":"Green and yellow"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30lecteur_1-a.jpg"],
+    "price": "12",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-6_extra-bleu/",
+      "en": "/en/products/CarteRectangle21-6_extra-bleu/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-6",
+    "name": {"fr":"Extra bleu","en":"Extra blue"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30Extratblue_1-a.jpg"],
+    "price": "12",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-7_compo-italienne/",
+      "en": "/en/products/CarteRectangle21-7_compo-italienne/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-7",
+    "name": {"fr":"Compo italienne","en":"Italie's compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30compoitalie_1-a.jpg"],
+    "price": "12",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-8_compo-bleu-rouge/",
+      "en": "/en/products/CarteRectangle21-8_compo-bleu-rouge/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-8",
+    "name": {"fr":"Compo bleu rouge","en":"Blue red compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30compobluered_1-a.jpg"],
+    "price": "12",
+    "stock": "1",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productgrand-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle21-9_les-amants/",
+      "en": "/en/products/CarteRectangle21-9_les-amants/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle21-9",
+    "name": {"fr":"Les amants","en":"The lovers"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","grand-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue \taujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey\n"},
+    "photos": ["Carte21x30amoureux_1-a.jpg"],
+    "price": "12",
+    "stock": "2",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-10_maison-de-hundert-marges/",
+      "en": "/en/products/CarteRectangle10-10_maison-de-hundert-marges/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-10",
+    "name": {"fr":"Maison de Hundert marges","en":"Hundert's house marges"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15hundert_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-11_riviere-de-hundert/",
+      "en": "/en/products/CarteRectangle10-11_riviere-de-hundert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-11",
+    "name": {"fr":"Rivière de Hundert","en":"River's house"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15hudert2_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-12_fresque-planturale/",
+      "en": "/en/products/CarteRectangle10-12_fresque-planturale/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-12",
+    "name": {"fr":"Fresque planturale","en":"Plant's fresco"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15fresqueplant2_1-a.jpg"],
+    "price": "2.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-13_extra-bleu/",
+      "en": "/en/products/CarteRectangle10-13_extra-bleu/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-13",
+    "name": {"fr":"Extra bleu","en":"Extra blue"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15Extratblue_1-a.jpg"],
+    "price": "2.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-14_renard-d-encre/",
+      "en": "/en/products/CarteRectangle10-14_renard-d-encre/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-14",
+    "name": {"fr":"Renard d'encre","en":"Fox's ink"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
     "photos": ["Carte10x15encrechinerenard_1-a.jpg"],
+    "price": "2.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-15_compo-d-encre/",
+      "en": "/en/products/CarteRectangle10-15_compo-d-encre/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-15",
+    "name": {"fr":"Compo d'encre","en":"Compo ink"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15encrechinecompo_1-a.jpg"],
+    "price": "2.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-16_compo-d-encre/",
+      "en": "/en/products/CarteRectangle10-16_compo-d-encre/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-16",
+    "name": {"fr":"Compo d'encre","en":"Compo ink"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15encrechinecompo_1-a.jpg"],
+    "price": "2.5",
+    "stock": "12",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-17_trans-creatures/",
+      "en": "/en/products/CarteRectangle10-17_trans-creatures/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-17",
+    "name": {"fr":"Trans créatures","en":"Creatures trans"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15creaturestrans_1-a.jpg"],
+    "price": "2.5",
+    "stock": "13",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-18_compo-italienne/",
+      "en": "/en/products/CarteRectangle10-18_compo-italienne/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-18",
+    "name": {"fr":"Compo italienne","en":"Italie's compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15compoitalie_1-a.jpg"],
+    "price": "2.5",
+    "stock": "13",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-19_compo-bleu-rouge/",
+      "en": "/en/products/CarteRectangle10-19_compo-bleu-rouge/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-19",
+    "name": {"fr":"Compo bleu rouge","en":"Blue red compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15compobluered_1-a.jpg"],
+    "price": "2.5",
+    "stock": "13",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-1_sf-bleu-noir/",
+      "en": "/en/products/CarteRectangle10-1_sf-bleu-noir/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-1",
+    "name": {"fr":"Sf bleu noir","en":"Sf blue black"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15sfblueblack_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-19_fantasmagorie/",
+      "en": "/en/products/CarteRectangle10-19_fantasmagorie/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-19",
+    "name": {"fr":"Fantasmagorie","en":"Fantasmagory"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15cieux_1-a.jpg"],
     "price": "2.5",
     "stock": "5",
     "weight": "",
     
-    "shipping_type": "",
-    "shipping_point": ""
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-21_les-amoureux/",
+      "en": "/en/products/CarteRectangle10-21_les-amoureux/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-21",
+    "name": {"fr":"Les amoureux","en":"The lovers"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15amoureux_1-a.jpg"],
+    "price": "2.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-22_compo-abstraite/",
+      "en": "/en/products/CarteRectangle10-22_compo-abstraite/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-22",
+    "name": {"fr":"Compo abstraite","en":"Abstract compo"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15abstractcompo_1-a.JPG"],
+    "price": "2.5",
+    "stock": "5",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-2_sf-chevalier-rouge/",
+      "en": "/en/products/CarteRectangle10-2_sf-chevalier-rouge/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-2",
+    "name": {"fr":"Sf chevalier rouge","en":"Sf red's knight"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15sf_1-a.JPG"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-3_princesse-du-desert/",
+      "en": "/en/products/CarteRectangle10-3_princesse-du-desert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-3",
+    "name": {"fr":"Princesse du désert","en":"Desert's princess"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15princesse_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-4_monade/",
+      "en": "/en/products/CarteRectangle10-4_monade/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-4",
+    "name": {"fr":"Monade","en":"Monad"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15monade_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-5_livre-des-merveilles/",
+      "en": "/en/products/CarteRectangle10-5_livre-des-merveilles/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-5",
+    "name": {"fr":"Livre des merveilles","en":"Wonder's book"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15livremerveille_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-6_vert-et-jaune/",
+      "en": "/en/products/CarteRectangle10-6_vert-et-jaune/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-6",
+    "name": {"fr":"Vert et jaune","en":"Green and yellow"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15lecteur_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-7_infini/",
+      "en": "/en/products/CarteRectangle10-7_infini/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-7",
+    "name": {"fr":"Infini","en":"Infinite"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15infini_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-8_maison-de-hundert/",
+      "en": "/en/products/CarteRectangle10-8_maison-de-hundert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-8",
+    "name": {"fr":"Maison de Hundert","en":"Hundert's house"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15hundert3_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
+  },
+{
+    "title": "productpetit-format-rectangle - [object Object]",
+    "permalinks": {
+      "fr": "/products/CarteRectangle10-9_foret-de-hundert/",
+      "en": "/en/products/CarteRectangle10-9_foret-de-hundert/"
+    },
+    "layout": "_layouts/product_card.njk",
+    "id": "CarteRectangle10-9",
+    "name": {"fr":"Forêt de Hundert","en":"Hundert's forest"},
+    "mini_descr": "",
+    "meta_descr": "",
+    "tags": ["product","petit-format-rectangle"],
+    "description": {"fr":"Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. \n","en":"Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.\n"},
+    "photos": ["Carte10x15hundertforet_1-a.jpg"],
+    "price": "2.5",
+    "stock": "8",
+    "weight": "",
+    
+    "shipping_type": "tube",
+    "shipping_point": "1"
   },
 {
     "title": "carnet-porte-carte - ",
