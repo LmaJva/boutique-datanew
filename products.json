@@ -1447,26 +1447,5 @@
     
     "shipping_type": "tube",
     "shipping_point": "1"
-  },
-{
-    "title": "carnet-porte-carte - ",
-    "permalinks": {
-      "fr": "/products/affiches2_festival-gongfucha/",
-      "en": "/en/products/affiches2_festival-gongfucha/"
-    },
-    "layout": "",
-    "id": "affiches2",
-    "name": {"fr":"festival GōngFūChá - 工夫茶","en":"GōngFūChá 工夫茶 Festival"},
-    "mini_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
-    "meta_descr": {"fr":"deux affiches originales par Benhito","en":"two original posters by Benhito"},
-    "tags": ["carnet-porte-carte"],
-    "description": {"fr":"Deux affiches du festival GōngFūChá - 工夫茶. Benhito est sorti de son univers rock pour taper juste et fort dans un style épuré avec une mise en couleur parfaite.\n","en":"Two posters for the GōngFūChá Festival - 工夫茶. Benhito stepped out of his rock universe to deliver a minimalist and impactful design with perfect coloring.\n"},
-    "photos": ["gongfucha_affiches_a.jpg"],
-    "price": "20",
-    "stock": "70",
-    "weight": "125",
-    
-    "shipping_type": "tube",
-    "shipping_point": "1"
   }
 ]
