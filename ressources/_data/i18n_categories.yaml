@@ -22,7 +22,7 @@
     fr: Ambivalente, cette carte ravira un.e destinataire d'une attention particulièrement grande ou tout simplement pour l'admirer chez soi, sur un meuble ou au mur. Digitally printed card of my original works
     en: Ambivalent, this card can delight a recipient of a particularly great attention or simply to please oneself and be able to admire it at home, on a piece of furniture or on the wall
     
- label: moy-format-rectangle
+- label: moy-format-rectangle
   title:
     fr: Moyen Format Rectangle
     en: Moyen Format Rectangle
@@ -31,7 +31,7 @@
     en: Ambivalent, this card can delight a recipient of a particularly great attention or simply to please oneself and be able to admire it at home, on a piece of furniture or on the wall
     
 
-label: grand-format-carré
+- label: grand-format-carré
   title:
     fr: Grand Format Carré
     en: Grand Format Carré
