@@ -1,9 +1,9 @@
 ---
 layout: _layouts/product_card.njk
-id: CarteCarre10-8
+id: CarteCarre10-11
 name: 
-  fr: Opkhfdsjl
-  en: Opkhfdsjl
+  fr: Chat moi
+  en: Me cat
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
@@ -14,9 +14,9 @@ description:
   en: >
     Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.
 photos:
-  - CarteCarre10fee_1-a.jpg
+  - CarteCarre10cham_1-a.jpg
 price: 1.50
-stock: 5
+stock: 8
 options:
   dimension:
     en: 8x8 inch

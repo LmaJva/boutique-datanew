@@ -2,8 +2,8 @@
 layout: _layouts/product_card.njk
 id: CarteCarre10-9
 name: 
-  fr: Petite Carte Carrée
-  en: Small Square Card
+  fr: Frtaty hjioyttkgpù
+  en: Frtaty hjioyttkgpù
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
