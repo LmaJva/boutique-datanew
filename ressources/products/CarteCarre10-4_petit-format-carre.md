@@ -7,7 +7,7 @@ name:
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids 
-tags: ["product", "petit-format-carré"]
+tags: ["product", "petit-format-carre"]
 description: 
   fr: > 
     Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. 

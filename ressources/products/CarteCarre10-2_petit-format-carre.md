@@ -7,7 +7,7 @@ name:
 meta_descr:
   fr: Tout autant que nous vivons, vit l'heure en laquelle Nous vivons, et qui meurt, de la même façon, Quand elle passe avec nous. 
   en: As much as we live, so lives the hour in which We live, and which dies, in the same way, When it passes with us.
-tags: ["product", "petit-format-carré"]
+tags: ["product", "petit-format-carre"]
 description: 
   fr: > 
     Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. 
