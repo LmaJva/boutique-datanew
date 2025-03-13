@@ -2,7 +2,7 @@
 layout: _layouts/product_card.njk
 id: CarteCarreGrandFormat-4
 name: Large Square Size
-tags: ["product", "grand-format-carré"]
+tags: ["product", "grand-format-carre"]
 description: >
 
 photos:
