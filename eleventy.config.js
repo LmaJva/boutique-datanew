@@ -1,16 +1,17 @@
 import yaml from 'js-yaml';
 
 export const config = {
-      dir: {
+    dir: {
         input: "ressources",
         output: "dist"
-      }
-  };
-  
+    }
+};
+
 export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("ressources/photos");
+    eleventyConfig.addPassthroughCopy("ressources/icons");
 
-    eleventyConfig.addCollection("products", function(collectionApi) {
+    eleventyConfig.addCollection("products", function (collectionApi) {
         return collectionApi.getFilteredByGlob("ressources/products/*.md");
     });
 
