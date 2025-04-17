@@ -1,6 +1,5 @@
 [ 
 {
-    "title": "petit-format-carré - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-10_skjrjlkfjk/",
       "en": "/en/products/CarteCarre10-10_skjrjlkfjk/"
@@ -17,11 +16,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-11_chat-moi/",
       "en": "/en/products/CarteCarre10-11_chat-moi/"
@@ -38,11 +38,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-1_fantasmagorie/",
       "en": "/en/products/CarteCarre10-1_fantasmagorie/"
@@ -59,11 +60,12 @@
     "stock": "6",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-2_waterspell/",
       "en": "/en/products/CarteCarre10-2_waterspell/"
@@ -80,11 +82,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-3_dos-nu-fesses-a-l-air/",
       "en": "/en/products/CarteCarre10-3_dos-nu-fesses-a-l-air/"
@@ -101,11 +104,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-4_yomfigo-tamagoshi/",
       "en": "/en/products/CarteCarre10-4_yomfigo-tamagoshi/"
@@ -122,11 +126,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-5_jioprito-sur-l-etang/",
       "en": "/en/products/CarteCarre10-5_jioprito-sur-l-etang/"
@@ -143,11 +148,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-6_juirturti/",
       "en": "/en/products/CarteCarre10-6_juirturti/"
@@ -164,11 +170,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carré - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-7_gutortiro/",
       "en": "/en/products/CarteCarre10-7_gutortiro/"
@@ -185,11 +192,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carré - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-8_opkhfdsjl/",
       "en": "/en/products/CarteCarre10-8_opkhfdsjl/"
@@ -206,11 +214,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-carré - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre10-9_frtaty-hjioyttkgpu/",
       "en": "/en/products/CarteCarre10-9_frtaty-hjioyttkgpu/"
@@ -227,11 +236,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-1_vert-et-jaune/",
       "en": "/en/products/CarteCarre15-1_vert-et-jaune/"
@@ -248,11 +258,12 @@
     "stock": "24",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-2_infini/",
       "en": "/en/products/CarteCarre15-2_infini/"
@@ -269,11 +280,12 @@
     "stock": "14",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-3_fee-bleu-se-deposant/",
       "en": "/en/products/CarteCarre15-3_fee-bleu-se-deposant/"
@@ -290,11 +302,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-4_silhouette-planete-extra/",
       "en": "/en/products/CarteCarre15-4_silhouette-planete-extra/"
@@ -311,11 +324,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-5_dos-nu-fesses-a-l-air/",
       "en": "/en/products/CarteCarre15-5_dos-nu-fesses-a-l-air/"
@@ -332,11 +346,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-6_yomfigo-tamagoshi/",
       "en": "/en/products/CarteCarre15-6_yomfigo-tamagoshi/"
@@ -353,11 +368,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-7_fantasmagorie/",
       "en": "/en/products/CarteCarre15-7_fantasmagorie/"
@@ -374,11 +390,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-8_chat-moi/",
       "en": "/en/products/CarteCarre15-8_chat-moi/"
@@ -395,11 +412,12 @@
     "stock": "7",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre15-9_les-amants/",
       "en": "/en/products/CarteCarre15-9_les-amants/"
@@ -416,11 +434,12 @@
     "stock": "3",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre21-1_fee-bleu-se-deposant/",
       "en": "/en/products/CarteCarre21-1_fee-bleu-se-deposant/"
@@ -437,11 +456,12 @@
     "stock": "11",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre21-2_silhouette-planete-extra/",
       "en": "/en/products/CarteCarre21-2_silhouette-planete-extra/"
@@ -458,11 +478,12 @@
     "stock": "6",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre21-3_ziguouiguouis/",
       "en": "/en/products/CarteCarre21-3_ziguouiguouis/"
@@ -479,11 +500,12 @@
     "stock": "1",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-carre - [object Object]",
     "permalinks": {
       "fr": "/products/CarteCarre21-4_les-amants/",
       "en": "/en/products/CarteCarre21-4_les-amants/"
@@ -500,11 +522,12 @@
     "stock": "2",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-10_creature-trans/",
       "en": "/en/products/CarteRectangle15-10_creature-trans/"
@@ -521,11 +544,12 @@
     "stock": "15",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-11_compo-bleu-rouge/",
       "en": "/en/products/CarteRectangle15-11_compo-bleu-rouge/"
@@ -542,11 +566,12 @@
     "stock": "15",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-12_chat-moi/",
       "en": "/en/products/CarteRectangle15-12_chat-moi/"
@@ -563,11 +588,12 @@
     "stock": "15",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-13_les-amoureux/",
       "en": "/en/products/CarteRectangle15-13_les-amoureux/"
@@ -584,11 +610,12 @@
     "stock": "15",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-1_sf-bleu-noir/",
       "en": "/en/products/CarteRectangle15-1_sf-bleu-noir/"
@@ -605,11 +632,12 @@
     "stock": "17",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-2_princesse-du-desert/",
       "en": "/en/products/CarteRectangle15-2_princesse-du-desert/"
@@ -626,11 +654,12 @@
     "stock": "17",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-3_poeme-de-l-olive/",
       "en": "/en/products/CarteRectangle15-3_poeme-de-l-olive/"
@@ -647,11 +676,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-4_monade/",
       "en": "/en/products/CarteRectangle15-4_monade/"
@@ -668,11 +698,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-5_vert-et-jaune/",
       "en": "/en/products/CarteRectangle15-5_vert-et-jaune/"
@@ -689,11 +720,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-6_foret-de-hundert/",
       "en": "/en/products/CarteRectangle15-6_foret-de-hundert/"
@@ -710,11 +742,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-7_riviere-de-hundert/",
       "en": "/en/products/CarteRectangle15-7_riviere-de-hundert/"
@@ -731,11 +764,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-8_maison-de-hundert/",
       "en": "/en/products/CarteRectangle15-8_maison-de-hundert/"
@@ -752,11 +786,12 @@
     "stock": "7",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "moyen-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle15-9_extra-bleu/",
       "en": "/en/products/CarteRectangle15-9_extra-bleu/"
@@ -773,11 +808,12 @@
     "stock": "7",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-10_compo-abstraite/",
       "en": "/en/products/CarteRectangle21-10_compo-abstraite/"
@@ -794,11 +830,12 @@
     "stock": "2",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-1_sf-bleu-noir/",
       "en": "/en/products/CarteRectangle21-1_sf-bleu-noir/"
@@ -815,11 +852,12 @@
     "stock": "6",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-2_princesse-du-desert/",
       "en": "/en/products/CarteRectangle21-2_princesse-du-desert/"
@@ -836,11 +874,12 @@
     "stock": "7",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-3_poeme-de-l-olive/",
       "en": "/en/products/CarteRectangle21-3_poeme-de-l-olive/"
@@ -857,11 +896,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-4_livre-des-merveilles/",
       "en": "/en/products/CarteRectangle21-4_livre-des-merveilles/"
@@ -878,11 +918,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-5_vert-et-jaune/",
       "en": "/en/products/CarteRectangle21-5_vert-et-jaune/"
@@ -899,11 +940,12 @@
     "stock": "1",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-6_extra-bleu/",
       "en": "/en/products/CarteRectangle21-6_extra-bleu/"
@@ -920,11 +962,12 @@
     "stock": "1",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-7_compo-italienne/",
       "en": "/en/products/CarteRectangle21-7_compo-italienne/"
@@ -941,11 +984,12 @@
     "stock": "1",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-8_compo-bleu-rouge/",
       "en": "/en/products/CarteRectangle21-8_compo-bleu-rouge/"
@@ -962,11 +1006,12 @@
     "stock": "1",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "grand-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle21-9_les-amants/",
       "en": "/en/products/CarteRectangle21-9_les-amants/"
@@ -983,11 +1028,12 @@
     "stock": "2",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-10_maison-de-hundert-marges/",
       "en": "/en/products/CarteRectangle10-10_maison-de-hundert-marges/"
@@ -1004,11 +1050,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-11_riviere-de-hundert/",
       "en": "/en/products/CarteRectangle10-11_riviere-de-hundert/"
@@ -1025,11 +1072,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-12_fresque-planturale/",
       "en": "/en/products/CarteRectangle10-12_fresque-planturale/"
@@ -1046,11 +1094,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-13_extra-bleu/",
       "en": "/en/products/CarteRectangle10-13_extra-bleu/"
@@ -1067,11 +1116,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-14_renard-d-encre/",
       "en": "/en/products/CarteRectangle10-14_renard-d-encre/"
@@ -1088,11 +1138,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-15_compo-d-encre/",
       "en": "/en/products/CarteRectangle10-15_compo-d-encre/"
@@ -1109,11 +1160,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-16_compo-d-encre/",
       "en": "/en/products/CarteRectangle10-16_compo-d-encre/"
@@ -1130,11 +1182,12 @@
     "stock": "12",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-17_trans-creatures/",
       "en": "/en/products/CarteRectangle10-17_trans-creatures/"
@@ -1151,11 +1204,12 @@
     "stock": "13",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-18_compo-italienne/",
       "en": "/en/products/CarteRectangle10-18_compo-italienne/"
@@ -1172,11 +1226,12 @@
     "stock": "13",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-19_compo-bleu-rouge/",
       "en": "/en/products/CarteRectangle10-19_compo-bleu-rouge/"
@@ -1193,11 +1248,12 @@
     "stock": "13",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-1_sf-bleu-noir/",
       "en": "/en/products/CarteRectangle10-1_sf-bleu-noir/"
@@ -1214,11 +1270,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-19_fantasmagorie/",
       "en": "/en/products/CarteRectangle10-19_fantasmagorie/"
@@ -1235,11 +1292,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-21_les-amoureux/",
       "en": "/en/products/CarteRectangle10-21_les-amoureux/"
@@ -1256,11 +1314,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-22_compo-abstraite/",
       "en": "/en/products/CarteRectangle10-22_compo-abstraite/"
@@ -1277,11 +1336,12 @@
     "stock": "5",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-2_sf-chevalier-rouge/",
       "en": "/en/products/CarteRectangle10-2_sf-chevalier-rouge/"
@@ -1298,11 +1358,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-3_princesse-du-desert/",
       "en": "/en/products/CarteRectangle10-3_princesse-du-desert/"
@@ -1319,11 +1380,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-4_monade/",
       "en": "/en/products/CarteRectangle10-4_monade/"
@@ -1340,11 +1402,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-5_livre-des-merveilles/",
       "en": "/en/products/CarteRectangle10-5_livre-des-merveilles/"
@@ -1361,11 +1424,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-6_vert-et-jaune/",
       "en": "/en/products/CarteRectangle10-6_vert-et-jaune/"
@@ -1382,11 +1446,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-7_infini/",
       "en": "/en/products/CarteRectangle10-7_infini/"
@@ -1403,11 +1468,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-8_maison-de-hundert/",
       "en": "/en/products/CarteRectangle10-8_maison-de-hundert/"
@@ -1424,11 +1490,12 @@
     "stock": "8",
     "weight": "5",
     
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
+    
     "shipping_type": "tube",
     "shipping_point": "1"
   },
 {
-    "title": "petit-format-rectangle - [object Object]",
     "permalinks": {
       "fr": "/products/CarteRectangle10-9_foret-de-hundert/",
       "en": "/en/products/CarteRectangle10-9_foret-de-hundert/"
@@ -1444,6 +1511,8 @@
     "price": "2.5",
     "stock": "8",
     "weight": "5",
+    
+        "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
     "shipping_type": "tube",
     "shipping_point": "1"
