@@ -1,5 +1,4 @@
 ---
-layout: _layouts/product_card.njk
 id: CarteCarre15-5
 name:
   fr: Dos nu Fesses à l'air
@@ -7,7 +6,7 @@ name:
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-tags: ["product", "moyen-format-carre"]
+tags: ["moyen-format-carre"]
 description:
   fr: >
     Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
@@ -17,10 +16,12 @@ photos:
   - CarteCarre15x15dosnu_1-a.jpg
 price: 4.5
 stock: 5
+weight: 5
 options:
-  dimension:
-    en: 15x15 inch
-    fr: 15x15 cm
+  fr:
+    dimensions: 15x15 cm
+  en:
+    dimensions: 15x15 inch
 shipping_type: tube
 shipping_point: 1
 mini_descr: ""

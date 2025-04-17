@@ -1,8 +1,7 @@
 ---
-layout: _layouts/product_card.njk
 id: CarteMoyenFormat-9
 name: Medium Size
-tags: ["product", "moyen-format"]
+tags: ["moyen-format"]
 description: >
 
 photos:

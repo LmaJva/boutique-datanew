@@ -1,5 +1,4 @@
 ---
-layout: _layouts/product_card.njk
 id: CarteCarre10-3
 name:
   fr: Dos nu Fesses à l'air
@@ -7,7 +6,7 @@ name:
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-tags: ["product", "petit-format-carre"]
+tags: ["petit-format-carre"]
 description:
   fr: >
     Les vagues commençaient à se supperposer puis à suivre lentement les visages ou corps flottants, ci et là puis doucement un dos est apparu laissant découvrir un rose nappé de créatures peuplant des fesses. Peinture acrylique sur carton
@@ -17,10 +16,12 @@ photos:
   - CarteCarre10dosnu_1-a.jpg
 price: 1.50
 stock: 5
+weight: 5
 options:
-  dimension:
-    en: 8x8 inch
-    fr: 8x8 cm
+  fr:
+    dimensions: 8x8 cm
+  en:
+    dimensions: 8x8 inch
 shipping_type: tube
 shipping_point: 1
 mini_descr: ""

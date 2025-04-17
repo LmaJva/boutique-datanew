@@ -1,5 +1,4 @@
 ---
-layout: _layouts/product_card.njk
 id: CarteCarre21-4
 name:
   fr: Les amants
@@ -7,7 +6,7 @@ name:
 meta_descr:
   fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
   en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-tags: ["product", "grand-format-carre"]
+tags: ["grand-format-carre"]
 description:
   fr: >
     Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
@@ -17,10 +16,12 @@ photos:
   - CarteCarre21x21amor_1-a.jpg
 price: 10
 stock: 2
+weight: 5
 options:
-  dimension:
-    en: 21x21 inch
-    fr: 21x21 cm
+  fr:
+    dimensions: 21x21 cm
+  en:
+    dimensions: 21x21 inch
 shipping_type: tube
 shipping_point: 1
 mini_descr: ""
