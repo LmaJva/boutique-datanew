@@ -22,8 +22,8 @@ options:
     dimensions: 10x15 cm
   en:
     dimensions: 10x15 inch
-shipping_type: tube
-shipping_point: 1 
+shipping_type: enveloppe_15x23cm
+shipping_point: 1
 mini_descr: ""
 
 eleventyComputed:

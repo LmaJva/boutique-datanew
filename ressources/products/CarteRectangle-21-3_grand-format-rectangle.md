@@ -22,8 +22,8 @@ options:
     dimensions: 21x30 cm
   en:
     dimensions: 21x30 inch
-shipping_type: tube
-shipping_point: 1 
+shipping_type: enveloppe_A4
+shipping_point: 2
 mini_descr: ""
 
 eleventyComputed:

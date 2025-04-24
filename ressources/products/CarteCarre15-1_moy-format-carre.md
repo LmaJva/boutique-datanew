@@ -22,8 +22,8 @@ options:
     dimensions: 15x15 cm
   en:
     dimensions: 15x15 inch
-shipping_type: tube
-shipping_point: 1
+shipping_type: enveloppe_A5
+shipping_point: 1.5
 mini_descr: ""
 
 eleventyComputed:

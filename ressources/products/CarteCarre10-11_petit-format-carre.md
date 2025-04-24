@@ -22,8 +22,8 @@ options:
     dimensions: 8x8 cm
   en:
     dimensions: 8x8 inch
-shipping_type: tube
-shipping_point: 1
+shipping_type: enveloppe_A6
+shipping_point: 0.7
 mini_descr: ""
 
 eleventyComputed:
