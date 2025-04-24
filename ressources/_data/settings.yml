@@ -1,6 +1,8 @@
 STRIPE_PUBLIC_KEY: "pk_live_"
 url: https://boutique.peintureresonnante.fr
-url_a_propos: https://www.peintureresonnante.fr/a-propos
+a_propos_url: 
+  fr: https://www.peintureresonnante.fr/a-propos
+  en: https://www.peintureresonnante.fr/en/a-propos
 rue: 4, rue de la montagne
 code_postal: 09320
 ville: Massat

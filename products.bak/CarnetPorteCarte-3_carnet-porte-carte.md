@@ -1,8 +1,7 @@
 ---
-layout: _layouts/product_card.njk
 id: CarnetPorteCarte-3
 name: Card Holder Booklet
-tags: ["product", "carnet-porte-carte"]
+tags: ["carnet-porte-carte"]
 description: >
 
 photos:

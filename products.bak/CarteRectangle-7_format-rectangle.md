@@ -1,8 +1,7 @@
 ---
-layout: _layouts/product_card.njk
 id: CarteRectangle-7
 name: Rectangle Size
-tags: ["product", "format-rectangle"]
+tags: ["format-rectangle"]
 description: >
 
 photos:

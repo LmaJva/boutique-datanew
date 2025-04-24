@@ -4,7 +4,6 @@ permalink: products.json
 [ 
 {% for product in collections.products -%}
 {
-    "title": "{{ product.data.title }}",
     "permalinks": {
       "fr": "/products/{{ product.data.id }}_{{ product.data.name['fr'] | slugify }}/",
       "en": "/en/products/{{ product.data.id }}_{{ product.data.name['fr'] | slugify }}/"
@@ -20,7 +19,7 @@ permalink: products.json
     "price": "{{ product.data.price }}",
     "stock": "{{ product.data.stock }}",
     "weight": "{{ product.data.weight }}",
-    {% if (options) %}
+    {% if (product.data.options) %}
         "options": {{ product.data.options | dump | safe }},
     {% endif %}
     "shipping_type": "{{ product.data.shipping_type }}",
