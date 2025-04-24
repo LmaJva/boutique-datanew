@@ -22,7 +22,7 @@ options:
     dimensions: 8x8 cm
   en:
     dimensions: 8x8 inch
-shipping_type: tube
+shipping_type: enveloppe_A4
 shipping_point: 1
 mini_descr: ""
 

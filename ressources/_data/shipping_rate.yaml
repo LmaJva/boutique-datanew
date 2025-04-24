@@ -94,11 +94,11 @@ grille_tarifs:
         tarif: 245.00
 
 types_colis:
-  colis_base:
-    poids_emballage: 260
-    capacite_points: 10
-  tube:
-    poids_emballage: 120
-    capacite_points: 5
+  enveloppe_A4:
+    poids_emballage: 30
+    capacite_points: 200
+  enveloppe_A5:
+    poids_emballage: 20
+    capacite_points: 130
   sans_envoi: null
 
