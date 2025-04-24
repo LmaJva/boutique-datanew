@@ -25,7 +25,6 @@ options:
 shipping_type: enveloppe_A4
 shipping_point: 1.5
 mini_descr: ""
-mini_descr: ""
 
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"

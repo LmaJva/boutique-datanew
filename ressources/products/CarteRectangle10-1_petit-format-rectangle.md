@@ -25,7 +25,6 @@ options:
 shipping_type: enveloppe_15x23cm
 shipping_point: 1
 mini_descr: ""
-
 eleventyComputed:
   title: "{{ tags }} - {{ name }}"
 ---
