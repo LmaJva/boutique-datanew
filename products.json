@@ -18,7 +18,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -40,7 +40,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -84,7 +84,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -106,7 +106,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -128,7 +128,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -150,7 +150,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -172,7 +172,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -194,7 +194,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -216,7 +216,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -238,7 +238,7 @@
     
         "options": {"fr":{"dimensions":"8x8 cm"},"en":{"dimensions":"8x8 inch"}},
     
-    "shipping_type": "enveloppe_A6",
+    "shipping_type": "enveloppe",
     "shipping_point": "0.7"
   },
 {
@@ -256,11 +256,11 @@
     "photos": ["CarteCarre15x15lecteur_1-a.jpg"],
     "price": "4.5",
     "stock": "24",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -278,11 +278,11 @@
     "photos": ["CarteCarre15x15infini_1-a.jpg"],
     "price": "4.5",
     "stock": "14",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -300,11 +300,11 @@
     "photos": ["CarteCarre15x15fee_1-a.jpg"],
     "price": "4.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -322,11 +322,11 @@
     "photos": ["CarteCarre15x15extrat_1-a.jpg"],
     "price": "4.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -344,11 +344,11 @@
     "photos": ["CarteCarre15x15dosnu_1-a.jpg"],
     "price": "4.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -366,11 +366,11 @@
     "photos": ["CarteCarre15x15croatisland_1-a.jpg"],
     "price": "4.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -388,11 +388,11 @@
     "photos": ["CarteCarre15x15cieux_1-a.jpg"],
     "price": "4.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -410,11 +410,11 @@
     "photos": ["CarteCarre15x15cham_1-a.jpg"],
     "price": "4.5",
     "stock": "7",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -432,11 +432,11 @@
     "photos": ["CarteCarre15x15amor_1-a.jpg"],
     "price": "4.5",
     "stock": "3",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"15x15 cm"},"en":{"dimensions":"15x15 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -458,7 +458,7 @@
     
         "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -480,7 +480,7 @@
     
         "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -502,7 +502,7 @@
     
         "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -524,7 +524,7 @@
     
         "options": {"fr":{"dimensions":"21x21 cm"},"en":{"dimensions":"21x21 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -542,11 +542,11 @@
     "photos": ["Carte15x21creaturestrans_1-a.jpg"],
     "price": "4.5",
     "stock": "15",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -564,11 +564,11 @@
     "photos": ["Carte15x21compobluered_1-a.jpg"],
     "price": "4.5",
     "stock": "15",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -586,11 +586,11 @@
     "photos": ["Carte15x21cham_1-a.jpg"],
     "price": "4.5",
     "stock": "15",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -608,11 +608,11 @@
     "photos": ["Carte15x21amoureux_1-a.jpg"],
     "price": "4.5",
     "stock": "15",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -630,11 +630,11 @@
     "photos": ["Carte15x21sfblueblack_1-a.jpg"],
     "price": "4.5",
     "stock": "17",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -652,11 +652,11 @@
     "photos": ["Carte15x21princesse_1-a.jpg"],
     "price": "4.5",
     "stock": "17",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -674,11 +674,11 @@
     "photos": ["Carte15x21olivepoeme_1-a.jpg"],
     "price": "4.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -696,11 +696,11 @@
     "photos": ["Carte15x21monade_1-a.jpg"],
     "price": "4.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -718,11 +718,11 @@
     "photos": ["Carte15x21lecteur_1-a.jpg"],
     "price": "4.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -740,11 +740,11 @@
     "photos": ["Carte15x21hundertforet_1-a.jpg"],
     "price": "4.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -762,11 +762,11 @@
     "photos": ["Carte15x21hudert2bords_1-a.jpg"],
     "price": "4.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -784,11 +784,11 @@
     "photos": ["Carte15x21hundert3_1-a.jpg"],
     "price": "4.5",
     "stock": "7",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -806,11 +806,11 @@
     "photos": ["Carte15x21Extratblue_1-a.jpg"],
     "price": "4.5",
     "stock": "7",
-    "weight": "5",
+    "weight": "15",
     
         "options": {"fr":{"dimensions":"15x21 cm"},"en":{"dimensions":"15x21 inch"}},
     
-    "shipping_type": "enveloppe_A5",
+    "shipping_type": "enveloppe",
     "shipping_point": "1.5"
   },
 {
@@ -850,11 +850,11 @@
     "photos": ["Carte21x30sfblueblack_1-a.jpg"],
     "price": "12",
     "stock": "6",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -872,11 +872,11 @@
     "photos": ["Carte21x30princesse_1-a.jpg"],
     "price": "12",
     "stock": "7",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -894,11 +894,11 @@
     "photos": ["Carte21x30olivepoeme_1-a.jpg"],
     "price": "12",
     "stock": "8",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -916,11 +916,11 @@
     "photos": ["Carte21x30livremerveille_1-a.jpg"],
     "price": "12",
     "stock": "8",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -938,11 +938,11 @@
     "photos": ["Carte21x30lecteur_1-a.jpg"],
     "price": "12",
     "stock": "1",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -960,11 +960,11 @@
     "photos": ["Carte21x30Extratblue_1-a.jpg"],
     "price": "12",
     "stock": "1",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -982,11 +982,11 @@
     "photos": ["Carte21x30compoitalie_1-a.jpg"],
     "price": "12",
     "stock": "1",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -1004,11 +1004,11 @@
     "photos": ["Carte21x30compobluered_1-a.jpg"],
     "price": "12",
     "stock": "1",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -1026,11 +1026,11 @@
     "photos": ["Carte21x30amoureux_1-a.jpg"],
     "price": "12",
     "stock": "2",
-    "weight": "5",
+    "weight": "20",
     
         "options": {"fr":{"dimensions":"21x30 cm"},"en":{"dimensions":"21x30 inch"}},
     
-    "shipping_type": "enveloppe_A4",
+    "shipping_type": "enveloppe",
     "shipping_point": "2"
   },
 {
@@ -1048,7 +1048,7 @@
     "photos": ["Carte10x15hundert_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1070,7 +1070,7 @@
     "photos": ["Carte10x15hudert2_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1092,7 +1092,7 @@
     "photos": ["Carte10x15fresqueplant2_1-a.jpg"],
     "price": "2.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1114,7 +1114,7 @@
     "photos": ["Carte10x15Extratblue_1-a.jpg"],
     "price": "2.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1136,7 +1136,7 @@
     "photos": ["Carte10x15encrechinerenard_1-a.jpg"],
     "price": "2.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1158,7 +1158,7 @@
     "photos": ["Carte10x15encrechinecompo_1-a.jpg"],
     "price": "2.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1180,7 +1180,7 @@
     "photos": ["Carte10x15encrechinecompo_1-a.jpg"],
     "price": "2.5",
     "stock": "12",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1202,7 +1202,7 @@
     "photos": ["Carte10x15creaturestrans_1-a.jpg"],
     "price": "2.5",
     "stock": "13",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1224,7 +1224,7 @@
     "photos": ["Carte10x15compoitalie_1-a.jpg"],
     "price": "2.5",
     "stock": "13",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1246,7 +1246,7 @@
     "photos": ["Carte10x15compobluered_1-a.jpg"],
     "price": "2.5",
     "stock": "13",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1268,7 +1268,7 @@
     "photos": ["Carte10x15sfblueblack_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1290,7 +1290,7 @@
     "photos": ["Carte10x15cieux_1-a.jpg"],
     "price": "2.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1312,7 +1312,7 @@
     "photos": ["Carte10x15amoureux_1-a.jpg"],
     "price": "2.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1334,7 +1334,7 @@
     "photos": ["Carte10x15abstractcompo_1-a.JPG"],
     "price": "2.5",
     "stock": "5",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1356,7 +1356,7 @@
     "photos": ["Carte10x15sf_1-a.JPG"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1378,7 +1378,7 @@
     "photos": ["Carte10x15princesse_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1400,7 +1400,7 @@
     "photos": ["Carte10x15monade_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1422,7 +1422,7 @@
     "photos": ["Carte10x15livremerveille_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1444,7 +1444,7 @@
     "photos": ["Carte10x15lecteur_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1466,7 +1466,7 @@
     "photos": ["Carte10x15infini_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1488,7 +1488,7 @@
     "photos": ["Carte10x15hundert3_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
@@ -1510,7 +1510,7 @@
     "photos": ["Carte10x15hundertforet_1-a.jpg"],
     "price": "2.5",
     "stock": "8",
-    "weight": "5",
+    "weight": "10",
     
         "options": {"fr":{"dimensions":"10x15 cm"},"en":{"dimensions":"10x15 inch"}},
     
