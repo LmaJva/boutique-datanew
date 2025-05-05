@@ -22,7 +22,7 @@ options:
     dimensions: 10x15 cm
   en:
     dimensions: 10x15 inch
-shipping_type: enveloppe_15x23cm
+shipping_type: enveloppe
 shipping_point: 1
 mini_descr: ""
 eleventyComputed:
