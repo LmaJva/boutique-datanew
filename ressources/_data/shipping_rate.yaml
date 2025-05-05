@@ -36,18 +36,6 @@ grille_tarifs:
 types_colis:
   enveloppe:
     poids_emballage: 15
-    capacite_points: 40
-  enveloppe_A4:
-    poids_emballage: 30
-    capacite_points: 200
-  enveloppe_A5:
-    poids_emballage: 20
-    capacite_points: 130
-  enveloppe_15x23cm:
-    poids_emballage: 13
-    capacite_points: 50
-  enveloppe_A6:
-    poids_emballage: 10
-    capacite_points: 40  
+    capacite_points: 40 
   sans_envoi: null
 

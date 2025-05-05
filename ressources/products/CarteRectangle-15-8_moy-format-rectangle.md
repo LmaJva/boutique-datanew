@@ -16,13 +16,13 @@ photos:
   - Carte15x21hundert3_1-a.jpg
 price: 4.5
 stock: 7
-weight: 5
+weight: 15
 options:
   fr:
     dimensions: 15x21 cm
   en:
     dimensions: 15x21 inch
-shipping_type: enveloppe_A5
+shipping_type: enveloppe
 shipping_point: 1.5
 mini_descr: ""
 

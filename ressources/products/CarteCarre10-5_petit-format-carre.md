@@ -22,7 +22,7 @@ options:
     dimensions: 8x8 cm
   en:
     dimensions: 8x8 inch
-shipping_type: enveloppe_A6
+shipping_type: enveloppe
 shipping_point: 0.7
 mini_descr: ""
 

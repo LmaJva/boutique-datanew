@@ -22,7 +22,7 @@ options:
     dimensions: 21x21 cm
   en:
     dimensions: 21x21 inch
-shipping_type: enveloppe_A4
+shipping_type: enveloppe
 shipping_point: 1.5
 mini_descr: ""
 

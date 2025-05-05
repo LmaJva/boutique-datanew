@@ -16,13 +16,13 @@ photos:
   - CarteCarre15x15amor_1-a.jpg
 price: 4.5
 stock: 3
-weight: 5
+weight: 10
 options:
   fr:
     dimensions: 15x15 cm
   en:
     dimensions: 15x15 inch
-shipping_type: enveloppe_A5
+shipping_type: enveloppe
 shipping_point: 1.5
 mini_descr: ""
 

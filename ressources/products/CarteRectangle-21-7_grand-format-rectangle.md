@@ -16,13 +16,13 @@ photos:
   - Carte21x30compoitalie_1-a.jpg
 price: 12
 stock: 1
-weight: 5
+weight: 20
 options:
   fr:
     dimensions: 21x30 cm
   en:
     dimensions: 21x30 inch
-shipping_type: enveloppe_A4
+shipping_type: enveloppe
 shipping_point: 2
 mini_descr: ""
 

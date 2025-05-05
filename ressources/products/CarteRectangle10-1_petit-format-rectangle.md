@@ -16,7 +16,7 @@ photos:
   - Carte10x15sfblueblack_1-a.jpg
 price: 2.50
 stock: 8
-weight: 5
+weight: 10
 options:
   fr:
     dimensions: 10x15 cm
