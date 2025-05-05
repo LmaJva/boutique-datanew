@@ -34,6 +34,9 @@ grille_tarifs:
 
 
 types_colis:
+  enveloppe:
+    poids_emballage: 15
+    capacite_points: 40
   enveloppe_A4:
     poids_emballage: 30
     capacite_points: 200
