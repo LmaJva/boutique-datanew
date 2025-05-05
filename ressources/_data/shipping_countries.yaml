@@ -1,18 +1,18 @@
 - fr: Afghanistan
   en: Afghanistan
-  zone: ZoneC
+  zone: ZoneA
   iso: AF
 - fr: Afrique du Sud
   en: South Africa
-  zone: ZoneC
+  zone: ZoneA
   iso: ZA
 - fr: Albanie
   en: Albania
-  zone: ZoneB
+  zone: ZoneA
   iso: AL
 - fr: Algérie
   en: Algeria
-  zone: ZoneB
+  zone: ZoneA
   iso: DZ
 - fr: Allemagne
   en: Germany
@@ -24,27 +24,27 @@
   iso: AD
 - fr: Angola
   en: Angola
-  zone: ZoneC
+  zone: ZoneA
   iso: AO
 - fr: Antigua-et-Barbuda
   en: Antigua and Barbuda
-  zone: ZoneC
+  zone: ZoneA
   iso: AG
 - fr: Arabie saoudite
   en: Saudi Arabia
-  zone: ZoneC
+  zone: ZoneA
   iso: SA
 - fr: Argentine
   en: Argentina
-  zone: ZoneC
+  zone: ZoneA
   iso: AR
 - fr: Arménie
   en: Armenia
-  zone: ZoneC
+  zone: ZoneA
   iso: AM
 - fr: Australie
   en: Australia
-  zone: ZoneC
+  zone: ZoneA
   iso: AU
 - fr: Autriche
   en: Austria
@@ -52,23 +52,23 @@
   iso: AT
 - fr: Azerbaïdjan
   en: Azerbaijan
-  zone: ZoneC
+  zone: ZoneA
   iso: AZ
 - fr: Bahamas
   en: Bahamas
-  zone: ZoneC
+  zone: ZoneA
   iso: BS
 - fr: Bahreïn
   en: Bahrain
-  zone: ZoneC
+  zone: ZoneA
   iso: BH
 - fr: Bangladesh
   en: Bangladesh
-  zone: ZoneC
+  zone: ZoneA
   iso: BD
 - fr: Barbade
   en: Barbados
-  zone: ZoneC
+  zone: ZoneA
   iso: BB
 - fr: Belgique
   en: Belgium
@@ -76,79 +76,79 @@
   iso: BE
 - fr: Belize
   en: Belize
-  zone: ZoneC
+  zone: ZoneA
   iso: BZ
 - fr: Bénin
   en: Benin
-  zone: ZoneC
+  zone: ZoneA
   iso: BJ
 - fr: Bhoutan
   en: Bhutan
-  zone: ZoneC
+  zone: ZoneA
   iso: BT
 - fr: Biélorussie
   en: Belarus
-  zone: ZoneB
+  zone: ZoneA
   iso: BY
 - fr: Birmanie (Myanmar)
   en: Myanmar (Burma)
-  zone: ZoneC
+  zone: ZoneA
   iso: MM
 - fr: Bolivie
   en: Bolivia
-  zone: ZoneC
+  zone: ZoneA
   iso: BO
 - fr: Bosnie-Herzégovine
   en: Bosnia and Herzegovina
-  zone: ZoneB
+  zone: ZoneA
   iso: BA
 - fr: Botswana
   en: Botswana
-  zone: ZoneC
+  zone: ZoneA
   iso: BW
 - fr: Brésil
   en: Brazil
-  zone: ZoneC
+  zone: ZoneA
   iso: BR
 - fr: Brunei
   en: Brunei
-  zone: ZoneC
+  zone: ZoneA
   iso: BN
 - fr: Bulgarie
   en: Bulgaria
-  zone: ZoneB
+  zone: ZoneA
   iso: BG
 - fr: Burkina Faso
   en: Burkina Faso
-  zone: ZoneC
+  zone: ZoneA
   iso: BF
 - fr: Burundi
   en: Burundi
-  zone: ZoneC
+  zone: ZoneA
   iso: BI
 - fr: Cambodge
   en: Cambodia
-  zone: ZoneC
+  zone: ZoneA
   iso: KH
 - fr: Cameroun
   en: Cameroon
-  zone: ZoneC
+  zone: ZoneA
   iso: CM
 - fr: Canada
   en: Canada
-  zone: ZoneC
+  zone: ZoneA
   iso: CA
 - fr: Cap-Vert
   en: Cape Verde
-  zone: ZoneC
+  zone: ZoneA
   iso: CV
 - fr: Chili
   en: Chile
-  zone: ZoneC
+  zone: ZoneA
   iso: CL
 - fr: Chine
   en: China
-  zone: ZoneC
+  zone: ZoneA
   iso: CN
 - fr: Chypre
   en: Cyprus
@@ -156,35 +156,35 @@
   iso: CY
 - fr: Colombie
   en: Colombia
-  zone: ZoneC
+  zone: ZoneA
   iso: CO
 - fr: Comores
   en: Comoros
-  zone: ZoneC
+  zone: ZoneA
   iso: KM
 - fr: Congo (Brazzaville)
   en: Congo (Brazzaville)
-  zone: ZoneC
+  zone: ZoneA
   iso: CG
 - fr: Congo (Kinshasa)
   en: Congo (Kinshasa)
-  zone: ZoneC
+  zone: ZoneA
   iso: CD
 - fr: Corée du Nord
   en: North Korea
-  zone: ZoneC
+  zone: ZoneA
   iso: KP
 - fr: Corée du Sud
   en: South Korea
-  zone: ZoneC
+  zone: ZoneA
   iso: KR
 - fr: Costa Rica
   en: Costa Rica
-  zone: ZoneC
+  zone: ZoneA
   iso: CR
 - fr: Côte d'Ivoire
   en: Ivory Coast
-  zone: ZoneC
+  zone: ZoneA
   iso: CI
 - fr: Croatie
   en: Croatia
@@ -192,7 +192,7 @@
   iso: HR
 - fr: Cuba
   en: Cuba
-  zone: ZoneC
+  zone: ZoneA
   iso: CU
 - fr: Danemark
   en: Denmark
@@ -200,27 +200,27 @@
   iso: DK
 - fr: Djibouti
   en: Djibouti
-  zone: ZoneC
+  zone: ZoneA
   iso: DJ
 - fr: Dominique
   en: Dominica
-  zone: ZoneC
+  zone: ZoneA
   iso: DM
 - fr: Égypte
   en: Egypt
-  zone: ZoneC
+  zone: ZoneA
   iso: EG
 - fr: Émirats arabes unis
   en: United Arab Emirates
-  zone: ZoneC
+  zone: ZoneA
   iso: AE
 - fr: Équateur
   en: Ecuador
-  zone: ZoneC
+  zone: ZoneA
   iso: EC
 - fr: Érythrée
   en: Eritrea
-  zone: ZoneC
+  zone: ZoneA
   iso: ER
 - fr: Espagne
   en: Spain
@@ -228,23 +228,23 @@
   iso: ES
 - fr: Estonie
   en: Estonia
-  zone: ZoneB
+  zone: ZoneA
   iso: EE
 - fr: Eswatini
   en: Eswatini
-  zone: ZoneC
+  zone: ZoneA
   iso: SZ
 - fr: États-Unis
   en: United States
-  zone: ZoneC
+  zone: ZoneA
   iso: US
 - fr: Éthiopie
   en: Ethiopia
-  zone: ZoneC
+  zone: ZoneA
   iso: ET
 - fr: Fidji
   en: Fiji
-  zone: ZoneC
+  zone: ZoneA
   iso: FJ
 - fr: Finlande
   en: Finland
@@ -256,19 +256,19 @@
   iso: FR
 - fr: Gabon
   en: Gabon
-  zone: ZoneC
+  zone: ZoneA
   iso: GA
 - fr: Gambie
   en: Gambia
-  zone: ZoneC
+  zone: ZoneA
   iso: GM
 - fr: Géorgie
   en: Georgia
-  zone: ZoneC
+  zone: ZoneA
   iso: GE
 - fr: Ghana
   en: Ghana
-  zone: ZoneC
+  zone: ZoneA
   iso: GH
 - fr: Grèce
   en: Greece
@@ -276,63 +276,63 @@
   iso: GR
 - fr: Grenade
   en: Grenada
-  zone: ZoneC
+  zone: ZoneA
   iso: GD
 - fr: Guatemala
   en: Guatemala
-  zone: ZoneC
+  zone: ZoneA
   iso: GT
 - fr: Guinée
   en: Guinea
-  zone: ZoneC
+  zone: ZoneA
   iso: GN
 - fr: Guinée-Bissau
   en: Guinea-Bissau
-  zone: ZoneC
+  zone: ZoneA
   iso: GW
 - fr: Guinée équatoriale
   en: Equatorial Guinea
-  zone: ZoneC
+  zone: ZoneA
   iso: GQ
 - fr: Guyana
   en: Guyana
-  zone: ZoneC
+  zone: ZoneA
   iso: GY
 - fr: Guyane française
   en: French Guiana
-  zone: OutreMer
+  zone: France
   iso: FR
 - fr: Haïti
   en: Haiti
-  zone: ZoneC
+  zone: ZoneA
   iso: HT
 - fr: Honduras
   en: Honduras
-  zone: ZoneC
+  zone: ZoneA
   iso: HN
 - fr: Hongrie
   en: Hungary
-  zone: ZoneB
+  zone: ZoneA
   iso: HU
 - fr: Îles Marshall
   en: Marshall Islands
-  zone: ZoneC
+  zone: ZoneA
   iso: MH
 - fr: Inde
   en: India
-  zone: ZoneC
+  zone: ZoneA
   iso: IN
 - fr: Indonésie
   en: Indonesia
-  zone: ZoneC
+  zone: ZoneA
   iso: ID
 - fr: Irak
   en: Iraq
-  zone: ZoneC
+  zone: ZoneA
   iso: IQ
 - fr: Iran
   en: Iran
-  zone: ZoneC
+  zone: ZoneA
   iso: IR
 - fr: Irlande
   en: Ireland
@@ -340,11 +340,11 @@
   iso: IE
 - fr: Islande
   en: Iceland
-  zone: ZoneB
+  zone: ZoneA
   iso: IS
 - fr: Israël
   en: Israel
-  zone: ZoneC
+  zone: ZoneA
   iso: IL
 - fr: Italie
   en: Italy
@@ -352,67 +352,67 @@
   iso: IT
 - fr: Jamaïque
   en: Jamaica
-  zone: ZoneC
+  zone: ZoneA
   iso: JM
 - fr: Japon
   en: Japan
-  zone: ZoneC
+  zone: ZoneA
   iso: JP
 - fr: Jordanie
   en: Jordan
-  zone: ZoneC
+  zone: ZoneA
   iso: JO
 - fr: Kazakhstan
   en: Kazakhstan
-  zone: ZoneC
+  zone: ZoneA
   iso: KZ
 - fr: Kenya
   en: Kenya
-  zone: ZoneC
+  zone: ZoneA
   iso: KE
 - fr: Kirghizistan
   en: Kyrgyzstan
-  zone: ZoneC
+  zone: ZoneA
   iso: KG
 - fr: Kiribati
   en: Kiribati
-  zone: ZoneC
+  zone: ZoneA
   iso: KI
 - fr: Koweït
   en: Kuwait
-  zone: ZoneC
+  zone: ZoneA
   iso: KW
 - fr: Laos
   en: Laos
-  zone: ZoneC
+  zone: ZoneA
   iso: LA
 - fr: Lesotho
   en: Lesotho
-  zone: ZoneC
+  zone: ZoneA
   iso: LS
 - fr: Lettonie
   en: Latvia
-  zone: ZoneB
+  zone: ZoneA
   iso: LV
 - fr: Liban
   en: Lebanon
-  zone: ZoneC
+  zone: ZoneA
   iso: LB
 - fr: Libéria
   en: Liberia
-  zone: ZoneC
+  zone: ZoneA
   iso: LR
 - fr: Libye
   en: Libya
-  zone: ZoneB
+  zone: ZoneA
   iso: LY
 - fr: Liechtenstein
   en: Liechtenstein
-  zone: ZoneB
+  zone: ZoneA
   iso: LI
 - fr: Lituanie
   en: Lithuania
-  zone: ZoneB
+  zone: ZoneA
   iso: LT
 - fr: Luxembourg
   en: Luxembourg
@@ -420,27 +420,27 @@
   iso: LU
 - fr: Macédoine du Nord
   en: North Macedonia
-  zone: ZoneB
+  zone: ZoneA
   iso: MK
 - fr: Madagascar
   en: Madagascar
-  zone: ZoneC
+  zone: ZoneA
   iso: MG
 - fr: Malaisie
   en: Malaysia
-  zone: ZoneC
+  zone: ZoneA
   iso: MY
 - fr: Malawi
   en: Malawi
-  zone: ZoneC
+  zone: ZoneA
   iso: MW
 - fr: Maldives
   en: Maldives
-  zone: ZoneC
+  zone: ZoneA
   iso: MV
 - fr: Mali
   en: Mali
-  zone: ZoneC
+  zone: ZoneA
   iso: ML
 - fr: Malte
   en: Malta
@@ -448,27 +448,27 @@
   iso: MT
 - fr: Maroc
   en: Morocco
-  zone: ZoneB
+  zone: ZoneA
   iso: MA
 - fr: Maurice
   en: Mauritius
-  zone: ZoneC
+  zone: ZoneA
   iso: MU
 - fr: Mauritanie
   en: Mauritania
-  zone: ZoneB
+  zone: ZoneA
   iso: MR
 - fr: Mexique
   en: Mexico
-  zone: ZoneC
+  zone: ZoneA
   iso: MX
 - fr: Micronésie
   en: Micronesia
-  zone: ZoneC
+  zone: ZoneA
   iso: FM
 - fr: Moldavie
   en: Moldova
-  zone: ZoneB
+  zone: ZoneA
   iso: MD
 - fr: Monaco
   en: Monaco
@@ -476,86 +476,86 @@
   iso: MC
 - fr: Mongolie
   en: Mongolia
-  zone: ZoneC
+  zone: ZoneA
   iso: MN
 - fr: Monténégro
   en: Montenegro
-  zone: ZoneB
+  zone: ZoneA
   iso: ME
 - fr: Mozambique
   en: Mozambique
-  zone: ZoneC
+  zone: ZoneA
   iso: MZ
 - fr: Namibie
   en: Namibia
-  zone: ZoneC
+  zone: ZoneA
   iso: NA
 - fr: Nauru
   en: Nauru
-  zone: ZoneC
+  zone: ZoneA
   iso: NR
 - fr: Népal
   en: Nepal
-  zone: ZoneC
+  zone: ZoneA
   iso: NP
 - fr: Nicaragua
   en: Nicaragua
-  zone: ZoneC
+  zone: ZoneA
   iso: NI
 - fr: Niger
   en: Niger
-  zone: ZoneC
+  zone: ZoneA
   iso: NE
 - fr: Nigeria
   en: Nigeria
-  zone: ZoneC
+  zone: ZoneA
   iso: NG
 - fr: Norvège
   en: Norway
-  zone: ZoneB
+  zone: ZoneA
   iso: NO
 - fr: Nouvelle-Calédonie
   en: New Caledonia
-  zone: OutreMer
+  zone: France
   iso: FR
 - fr: Nouvelle-Zélande
   en: New Zealand
-  zone: ZoneC
+  zone: ZoneA
   iso: NZ
 - fr: Oman
   en: Oman
-  zone: ZoneC
+  zone: ZoneA
   iso: OM
 - fr: Ouganda
   en: Uganda
-  zone: ZoneC
+  zone: ZoneA
   iso: UG
 - fr: Ouzbékistan
   en: Uzbekistan
-  zone: ZoneC
+  zone: ZoneA
   iso: UZ
 - fr: Pakistan
   en: Pakistan
-  zone: ZoneC
+  zone: ZoneA
   iso: PK
 - fr: Palaos
   en: Palau
-  zone: ZoneC
+  zone: ZoneA
   iso: PW
 - fr: Palestine
   en: Palestine
   iso: PS
 - fr: Panama
   en: Panama
-  zone: ZoneC
+  zone: ZoneA
   iso: PA
 - fr: Papouasie-Nouvelle-Guinée
   en: Papua New Guinea
-  zone: ZoneC
+  zone: ZoneA
   iso: PG
 - fr: Paraguay
   en: Paraguay
-  zone: ZoneC
+  zone: ZoneA
   iso: PY
 - fr: Pays-Bas
   en: Netherlands
@@ -563,19 +563,19 @@
   iso: NL
 - fr: Pérou
   en: Peru
-  zone: ZoneC
+  zone: ZoneA
   iso: PE
 - fr: Philippines
   en: Philippines
-  zone: ZoneC
+  zone: ZoneA
   iso: PH
 - fr: Pologne
   en: Poland
-  zone: ZoneB
+  zone: ZoneA
   iso: PL
 - fr: Polynésie française
   en: French Polynesia
-  zone: OutreMer
+  zone: France
   iso: FR
 - fr: Portugal
   en: Portugal
@@ -583,119 +583,119 @@
   iso: PT
 - fr: Qatar
   en: Qatar
-  zone: ZoneC
+  zone: ZoneA
   iso: QA
 - fr: République centrafricaine
   en: Central African Republic
-  zone: ZoneC
+  zone: ZoneA
   iso: CF
 - fr: République dominicaine
   en: Dominican Republic
-  zone: ZoneC
+  zone: ZoneA
   iso: DO
 - fr: République tchèque
   en: Czech Republic
-  zone: ZoneB
+  zone: ZoneA
   iso: CZ
 - fr: Roumanie
   en: Romania
-  zone: ZoneB
+  zone: ZoneA
   iso: RO
 - fr: Royaume-Uni
   en: United Kingdom
-  zone: UK
+  zone: ZoneA
   iso: GB
 - fr: Russie
   en: Russia
-  zone: ZoneB
+  zone: ZoneA
   iso: RU
 - fr: Rwanda
   en: Rwanda
-  zone: ZoneC
+  zone: ZoneA
   iso: RW
 - fr: Saint-Barthélemy
   en: Saint Barthélemy
-  zone: OutreMer
+  zone: France
   iso: FR
 - fr: Saint-Kitts-et-Nevis
   en: Saint Kitts and Nevis
-  zone: ZoneC
+  zone: ZoneA
   iso: KN
 - fr: Saint-Martin
   en: Saint Martin
-  zone: OutreMer
+  zone: France
   iso: FR
 - fr: Saint-Pierre-et-Miquelon
   en: Saint Pierre and Miquelon
-  zone: OutreMer
+  zone: France
   iso: FR
 - fr: Sainte-Lucie
   en: Saint Lucia
-  zone: ZoneC
+  zone: ZoneA
   iso: LC
 - fr: Saint-Vincent-et-les-Grenadines
   en: Saint Vincent and the Grenadines
-  zone: ZoneC
+  zone: ZoneA
   iso: VC
 - fr: Salomon
   en: Solomon Islands
-  zone: ZoneC
+  zone: ZoneA
   iso: SB
 - fr: Salvador
   en: El Salvador
-  zone: ZoneC
+  zone: ZoneA
   iso: SV
 - fr: Samoa
   en: Samoa
-  zone: ZoneC
+  zone: ZoneA
   iso: WS
 - fr: Sao Tomé-et-Principe
   en: Sao Tome and Principe
-  zone: ZoneC
+  zone: ZoneA
   iso: ST
 - fr: Sénégal
   en: Senegal
-  zone: ZoneC
+  zone: ZoneA
   iso: SN
 - fr: Serbie
   en: Serbia
-  zone: ZoneB
+  zone: ZoneA
   iso: RS
 - fr: Seychelles
   en: Seychelles
-  zone: ZoneC
+  zone: ZoneA
   iso: SC
 - fr: Sierra Leone
   en: Sierra Leone
-  zone: ZoneC
+  zone: ZoneA
   iso: SL
 - fr: Singapour
   en: Singapore
-  zone: ZoneC
+  zone: ZoneA
   iso: SG
 - fr: Slovaquie
   en: Slovakia
-  zone: ZoneB
+  zone: ZoneA
   iso: SK
 - fr: Slovénie
   en: Slovenia
-  zone: ZoneB
+  zone: ZoneA
   iso: SI
 - fr: Somalie
   en: Somalia
-  zone: ZoneC
+  zone: ZoneA
   iso: SO
 - fr: Soudan
   en: Sudan
-  zone: ZoneC
+  zone: ZoneA
   iso: SD
 - fr: Soudan du Sud
   en: South Sudan
-  zone: ZoneC
+  zone: ZoneA
   iso: SS
 - fr: Sri Lanka
   en: Sri Lanka
-  zone: ZoneC
+  zone: ZoneA
   iso: LK
 - fr: Suède
   en: Sweden
@@ -707,101 +707,101 @@
   iso: CH
 - fr: Suriname
   en: Suriname
-  zone: ZoneC
+  zone: ZoneA
   iso: SR
 - fr: Syrie
   en: Syria
-  zone: ZoneC
+  zone: ZoneA
   iso: SY
 - fr: Tadjikistan
   en: Tajikistan
-  zone: ZoneC
+  zone: ZoneA
   iso: TJ
 - fr: Taïwan
   en: Taiwan
-  zone: ZoneC
+  zone: ZoneA
   iso: TW
 - fr: Tanzanie
   en: Tanzania
-  zone: ZoneC
+  zone: ZoneA
   iso: TZ
 - fr: Tchad
   en: Chad
-  zone: ZoneC
+  zone: ZoneA
   iso: TD
 - fr: République tchèque
   en: Czech Republic
-  zone: ZoneB
+  zone: ZoneA
   iso: CZ
 - fr: Thaïlande
   en: Thailand
-  zone: ZoneC
+  zone: ZoneA
   iso: TH
 - fr: Timor oriental
   en: Timor-Leste
-  zone: ZoneC
+  zone: ZoneA
   iso: TL
 - fr: Togo
   en: Togo
-  zone: ZoneC
+  zone: ZoneA
   iso: TG
 - fr: Tonga
   en: Tonga
-  zone: ZoneC
+  zone: ZoneA
   iso: TO
 - fr: Trinité-et-Tobago
   en: Trinidad and Tobago
-  zone: ZoneC
+  zone: ZoneA
   iso: TT
 - fr: Tunisie
   en: Tunisia
-  zone: ZoneB
+  zone: ZoneA
   iso: TN
 - fr: Turkménistan
   en: Turkmenistan
-  zone: ZoneC
+  zone: ZoneA
   iso: TM
 - fr: Turquie
   en: Turkey
-  zone: ZoneC
+  zone: ZoneA
   iso: TR
 - fr: Tuvalu
   en: Tuvalu
-  zone: ZoneC
+  zone: ZoneA
   iso: TV
 - fr: Ukraine
   en: Ukraine
-  zone: ZoneB
+  zone: ZoneA
   iso: UA
 - fr: Uruguay
   en: Uruguay
-  zone: ZoneC
+  zone: ZoneA
   iso: UY
 - fr: Vanuatu
   en: Vanuatu
-  zone: ZoneC
+  zone: ZoneA
   iso: VU
 - fr: Vatican
   en: Vatican City
-  zone: ZoneB
+  zone: ZoneA
   iso: VA
 - fr: Venezuela
   en: Venezuela
-  zone: ZoneC
+  zone: ZoneA
   iso: VE
 - fr: Viêt Nam
   en: Vietnam
-  zone: ZoneC
+  zone: ZoneA
   iso: VN
 - fr: Yémen
   en: Yemen
-  zone: ZoneC
+  zone: ZoneA
   iso: YE
 - fr: Zambie
   en: Zambia
-  zone: ZoneC
+  zone: ZoneA
   iso: ZM
 - fr: Zimbabwe
   en: Zimbabwe
-  zone: ZoneC
+  zone: ZoneA
   iso: ZW
