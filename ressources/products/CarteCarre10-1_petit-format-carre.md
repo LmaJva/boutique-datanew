@@ -22,6 +22,10 @@ options:
     dimensions: 8x8 cm
   en:
     dimensions: 8x8 inch
+  fr:
+    papier: Olin Regular Mat
+  en:
+    paper: Olin Regular Mat
 shipping_type: enveloppe
 shipping_point: 0.7
 mini_descr: ""
