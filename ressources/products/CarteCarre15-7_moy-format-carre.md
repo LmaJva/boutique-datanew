@@ -1,17 +1,25 @@
 ---
 id: CarteCarre15-7
 name:
-  fr: Fantasmagorie
-  en: Fantasmagory
+ fr: phåɲʈaʂɨa
+  en: phåɲʈaʂɨa
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
+  fr: Fragment d'une petite scène d'une toile grand format, créé en Turquie. Peinture intuitive de voyage
+  en: Fragment of a small scene on large canvas, created in Türkiye. Intuitive travel painting
 tags: ["moyen-format-carre"]
 description:
   fr: >
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Tissage cosmique, fragile, dense.  
+    Ce qui est visible n'est qu'un fragment :  
+    une silhouette devient vibration, transformant les lignes en fils au milieu des échos de l'univers.
+    Cette carte est un fragment d'une grande toile de deux mètres, peinte intuitivement en acrylique d'une  de deux mètres, créée en Turquie, sous une impulsion spontanée.  
+    J'ai donc extrait plusieurs fragments de cette toile que vous retrouverez sur ce site. 
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Cosmic weaving, fragile, dense.  
+    What is visible is only a fragment:  
+    a silhouette becomes vibration, transforming lines into threads amid the echoes of the universe.
+    This card is a fragment of a large two-metre canvas, painted intuitively in acrylic, created in Turkey on a spontaneous impulse.  
+    I have therefore extracted several fragments from this canvas, which you will find on this website. 
 photos:
   - CarteCarre15x15cieux_1-a.jpg
 price: 4.5

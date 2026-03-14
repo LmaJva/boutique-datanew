@@ -1,17 +1,19 @@
 ---
 id: CarteCarre10-2
 name: 
-  fr: ^^WaterSpell*
-  en: ^^WaterSpell*
+  fr: vɛṣicå piṣciṣ 
+  en: vɛṣicå pisciṣ
 meta_descr:
-  fr: Tout autant que nous vivons, vit l'heure en laquelle Nous vivons, et qui meurt, de la même façon, Quand elle passe avec nous. 
-  en: As much as we live, so lives the hour in which We live, and which dies, in the same way, When it passes with us.
+  fr: Duo entremêlé de bleu et d'encre de chine rejoignant les porfondeurs de l'océan 
+  en: An intertwined duo of blue and India ink reaching the depths of the ocean
 tags: ["petit-format-carre"]
 description: 
   fr: > 
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. 
+    Deux formes liquides dansent et de cette étreinte naît Ichtys, fleur-oracle, gardienne d'un langage que seuls les silences comprennent.
+    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce duo à l'encre de chine, contrastant avec le fond coloré. 
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.
+    Two liquid forms dance, and from this embrace springs Ichtys, flower-oracle, guardian of a language that only silence understands.
+    Acrylic painting inspired by one of my favourite artists, Amano Yoshitaka, depicting this duo in Indian ink, contrasting with the colourful background. 
 photos:
   - CarteCarre10amor_1-a.jpg
 price: 1.50

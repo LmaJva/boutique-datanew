@@ -4,14 +4,14 @@ name:
   fr: Maison de Hundert
   en: Hundert's house
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
+  fr: Peinture acrylique inspirée par Hunderwasser, réalisée sur lémail d'un évier en Italie 
+  en: Acrylic painting inspired by Hundertwasser, created on the enamel of a sink in Italy
 tags: ["moyen-format-rectangle"]
 description:
   fr: >
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Peinture acrylique inspirée par Hunderwasser, réalisée sur lémail d'un évier en Italie 
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Acrylic painting inspired by Hundertwasser, created on the enamel of a sink in Italy
 photos:
   - Carte15x21hundert3_1-a.jpg
 price: 4.5

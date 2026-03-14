@@ -1,17 +1,21 @@
 ---
 id: CarteCarre21-3
 name:
-  fr: Ziguouiguouis
-  en: Ziguouiguouis
+  fr: Gutortiro
+  en: Gutortiro
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-tags: ["grand-format-carre"]
-description:
-  fr: >
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+  fr: Peinture acrylique intuitive et encre de chine créant des chemins tels une carte aux trésors
+  en: 
+tags: ["grand-format-carré"]
+description: 
+  fr: > 
+    dans le souffle de l'instant, le pinceau accroche la surface comme une respiration et chaque traces déposer devient la mémoire d'un geste... hésitant en commançant et petit à petit, la sensation s'arrête. A l'écoute, sur le guêt, il écoute... Quand reprends alors l'envie d'avancer, la main accueille l'impulsion et le temps se dilate... la feuille révèle le message sous mes yeux. Le voyez-vous?
+
+    encre de chine et acrylique sur papier
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    In the breath of the moment, the brush catches the surface like a breath, and each mark left behind becomes the memory of a gesture... hesitant at first, and little by little, the sensation fades. Listening, alert, it listens... When the desire to move forward returns, the hand welcomes the impulse, and time expands... the sheet reveals the message before my eyes. Do you see it?
+
+    India ink and acrylic on paper
 photos:
   - CarteCarre21x21blcbleu_1-a.jpg
 price: 10

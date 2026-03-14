@@ -1,17 +1,17 @@
 ---
 id: CarteCarre15-8
 name: 
-  fr: Chat moi
-  en: Me cat
+  fr: chat moi
+  en: me cat
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids 
+  fr: souvenir et cadeau d'un chamois peint à ma façon
+  en: Souvenir and gift of a chamois painted in my style
 tags: ["moyen-format-carre"]
-description: 
-  fr: > 
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+description:
+  fr: >
+    en me promenant avec un ami, il me confit qu'il adore les chamois... Et ça tombe bien, je veux lui offrir un souvenir. Je dois continuer la fin de mon voyage, alors, chose extrêmement rare, je concède à peindre cet animal ! Du figuratif ! Un exercice que je n'aime pas trop faire... Sauf si je le peins à ma façon ? Et voilà le résultat.
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    While out walking with a friend, he confided in me that he adores chamois... And that's perfect, I want to give him a souvenir. I have to finish my trip, so, extremely rarely, I agree to paint this animal! A figurative painting! An exercise I don't particularly enjoy... Unless I paint it in my own style? And here's the result.
 photos:
   - CarteCarre15x15cham_1-a.jpg
 price: 4.5

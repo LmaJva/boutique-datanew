@@ -4,14 +4,14 @@ name:
   fr: Monade
   en: Monad
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
+  fr: Peinture acrylique spontanée et y voyant une femme, elle m'a fait pensé à la monade que j'affectionne tant
+  en: A spontaneous acrylic painting, and seeing a woman in it, made me think of the monad that I cherish so much
 tags: ["moyen-format-rectangle"]
 description:
   fr: >
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Peinture acrylique spontanée et y voyant une femme, elle m'a fait pensé à la monade que j'affectionne tant
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    A spontaneous acrylic painting, and seeing a woman in it, made me think of the monad that I cherish so much
 photos:
   - Carte15x21monade_1-a.jpg
 price: 4.5

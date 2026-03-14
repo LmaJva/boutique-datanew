@@ -1,17 +1,39 @@
 ---
 id: CarteCarre15-4
 name: 
-  fr: Silhouette planète extra
-  en: Shape extra planet
+  fr: ümbrå
+  en: ümbrå
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids 
-tags: ["moyen-format-carre"]
+  fr: Une variation de fréquences résonnent
+    une infinité de particules 
+    l'air glisse les fils invisibles 
+    chaque silhouette porte en elle une infinité d'autres
+    en existant simultanément les un.es aux autres.
+  en:  A variation of frequencies resonates
+    an infinity of particles
+    the air slides invisible threads
+    each silhouette carries within it an infinity of others
+    existing simultaneously with one another.
+tags: ["moyen-format-carré"]
 description: 
   fr: > 
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Une variation de fréquences résonnent
+    une infinité de particules 
+    l'air glisse les fils invisibles 
+    chaque silhouette porte en elle une infinité d'autres
+    en existant simultanément les un.es aux autres.
+
+    Peinture acrylique d'après un dessin intuitif en premier lieu.
+    La transparence du trait laisse place à la couleur qui dessine les silhouettes surgissant des contrastes colorés.
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    A variation of frequencies resonates
+    an infinity of particles
+    the air slides invisible threads
+    each silhouette carries within it an infinity of others
+    existing simultaneously with one another.
+
+    Acrylic painting based on an initially intuitive drawing.
+    The transparency of the line gives way to the color that draws the silhouettes emerging from the colorful contrasts.
 photos:
   - CarteCarre15x15extrat_1-a.jpg
 price: 4.5

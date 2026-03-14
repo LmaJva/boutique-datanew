@@ -1,17 +1,17 @@
 ---
 id: CarteCarre10-9
 name: 
-  fr: Frtaty hjioyttkgpù
-  en: Frtaty hjioyttkgpù
+  fr: ħɸɾʈuʂ ɭeɡɨʈ
+  en: ħɸɾʈuʂ ɭeɡɨʈ
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
+  fr: Peinture acrylique créée à bord d'un petit voilier immobilisé dans un jardin proche de Joué-l'Abbé. Au depart tout était blanc puis...
+  en: Acrylic painting created aboard a small sailboat immobilized in a garden near Joué-l'Abbé. At first everything was white...
 tags: ["petit-format-carré"]
 description: 
   fr: > 
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. 
+    Peinture acrylique créée à bord d'un petit voilier immobilisé dans un jardin proche de Joué-l'Abbé. Au depart tout était blanc puis avec des lignes entrelacées dans l'intuition, le crayon intuitifà laissé place au jaune faisant apparaitre des courbes puis une silhouette lointaine s'est révélée et je l'ai suivi en l'habillant de bleu. C'est ainsi qu'iel lit en se reposant dans la quiétude du jardin accompagné.e de quelques collages de tissus et végétaux.
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background.
+    Acrylic painting created aboard a small sailboat immobilized in a garden near Joué-l'Abbé. At first everything was white then with intertwined lines in intuition, the intuitive pencil gave way to yellow making curves appear then a distant silhouette was revealed and I followed it by dressing it in blue. This is how he reads while resting in the tranquility of the garden accompanied by some collages of fabrics and plants.
 photos:
   - CarteCarre10lecteur_1-a.jpg
 price: 1.50

@@ -1,17 +1,17 @@
 ---
 id: CarteCarre15-5
 name:
-  fr: Dos nu Fesses à l'air
-  en: Naked back buttocks in the air
+  fr: nọvọrūm
+  en: nọvọrūm
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
+  fr: Un dos surgissant d'une peinture intuitive peuplant son monde d'étranges créatures 
+  en: A back emerging from an intuitive painting, populating its world with strange creatures
 tags: ["moyen-format-carre"]
 description:
   fr: >
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Les vagues commençaient à se supperposer puis à suivre lentement les visages et corps flottants, ici et là puis doucement un dos est apparu laissant découvrir un rose nappé de créatures peuplant des fesses. Peinture acrylique intuitive sur carton.
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    The waves began to overlap, then slowly followed the floating faces and bodies, here and there, and then gently a back appeared, revealing a pink swathe of creatures inhabiting buttocks. Intuitive acrylic painting on cardboard.
 photos:
   - CarteCarre15x15dosnu_1-a.jpg
 price: 4.5
