@@ -1,15 +1,15 @@
 ---
 id: CarteCarre10-7
 name: 
-  fr: Gutortiro
-  en: Gutortiro
+  fr: gutortiro
+  en: gutortiro
 meta_descr:
   fr: Peinture acrylique intuitive et encre de chine créant des chemins tels une carte aux trésors
   en: 
 tags: ["petit-format-carré"]
 description: 
   fr: > 
-    dans le souffle de l'instant, le pinceau accroche la surface comme une respiration et chaque traces déposer devient la mémoire d'un geste... hésitant en commançant et petit à petit, la sensation s'arrête. A l'écoute, sur le guêt, il écoute... Quand reprends alors l'envie d'avancer, la main accueille l'impulsion et le temps se dilate... la feuille révèle le message sous mes yeux. Le voyez-vous?
+    Dans le souffle de l'instant, le pinceau accroche la surface comme une respiration et chaque traces déposer devient la mémoire d'un geste... hésitant en commançant et petit à petit, la sensation s'arrête. A l'écoute, sur le guêt, il écoute... Quand reprends alors l'envie d'avancer, la main accueille l'impulsion et le temps se dilate... la feuille révèle le message sous mes yeux. Le voyez-vous?
 
     encre de chine et acrylique sur papier
   en: >

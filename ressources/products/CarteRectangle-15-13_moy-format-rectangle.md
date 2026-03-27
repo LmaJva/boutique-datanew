@@ -1,17 +1,19 @@
 ---
 id: CarteRectangle15-13
 name:
-  fr: Les amoureux
-  en: The lovers
+  fr: vɛṣicå piṣciṣ 
+  en: vɛṣicå pisciṣ
 meta_descr:
-  fr: texte français jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
-  en: texte anglais jklfezilfezilfuiflfi op rpueieez ireuf!fiffe fiefh hfhslfhsfh dfhds fdsfdsifdshfids
+  fr: Duo entremêlé de bleu et d'encre de chine rejoignant les porfondeurs de l'océan 
+  en: An intertwined duo of blue and India ink reaching the depths of the ocean
 tags: ["moyen-format-rectangle"]
-description:
-  fr: >
-    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce couple à l'encre de chine, contrastant avec le fond coloré. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+description: 
+  fr: > 
+    Deux formes liquides dansent et de cette étreinte naît Ichtys, fleur-oracle, gardienne d'un langage que seuls les silences comprennent.
+    Peinture acrylique inspirée par un de mes artistes de coeur nommé Amano Yoshitaka, en apposant les traits de ce duo à l'encre de chine, contrastant avec le fond coloré. 
   en: >
-    Acrylic painting inspired by one of my favorite artists named Amano Yoshitaka, applying the features of this couple in Indian ink, contrasting with the colored background. Tuiu eom eofife eeuop upz opea i àe ai ozuzu rpurep ruuupe   ue 	aujzp ueoiry zzyoz yzoyzo zuozu yz yzzyuozyuzazyiourçre oireuo reoryeihliu rptup uo euoàt o tuiy gisgdsjk gqkuz uo yefqjkfegjkey
+    Two liquid forms dance, and from this embrace springs Ichtys, flower-oracle, guardian of a language that only silence understands.
+    Acrylic painting inspired by one of my favourite artists, Amano Yoshitaka, depicting this duo in Indian ink, contrasting with the colourful background. 
 photos:
   - Carte15x21amoureux_1-a.jpg
 price: 4.5

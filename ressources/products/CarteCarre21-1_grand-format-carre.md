@@ -1,8 +1,8 @@
 ---
 id: CarteCarre21-1
 name:
-  fr: Fée et géant bleu
-  en: Giant blue & Fairy
+  fr: neråida gɨgåntiåiå
+  en: 
 meta_descr:
   fr: Fée et géant bleu, peinture acrylique, deux visages, une silhouette, un partage secret et intimiste, dans le silence du bleu 
   en: Fairy and blue giant, acrylic painting, two faces, a silhouette, a secret and intimate sharing, in the silence of blue
